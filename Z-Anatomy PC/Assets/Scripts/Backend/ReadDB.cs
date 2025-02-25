@@ -2,7 +2,7 @@
 //using Firebase.Extensions;
 //using Firebase.Firestore;
 #endif
-using Newtonsoft.Json;
+//using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -173,9 +173,9 @@ public class ReadDB : MonoBehaviour
 
     /*private string RemoveExtras(string desc)
     {
-        string[] fr = { "== Galerie ==", "== Voir aussi ==", "== Références ==", "== Notes et Références ==", "== Liens externes ==" };
-        string[] es = { "== Imágenes adicionales ==", "== Véase también ==", "== Referencias ==", "== Bibliografía ==", "== Enlaces externos ==" };
-        string[] pt = { "== Imagens ==", "== Ver também ==", "== Referências ==", "== Notas e referências ==", "== Ligações externas ==" };
+        string[] fr = { "== Galerie ==", "== Voir aussi ==", "== Rï¿½fï¿½rences ==", "== Notes et Rï¿½fï¿½rences ==", "== Liens externes ==" };
+        string[] es = { "== Imï¿½genes adicionales ==", "== Vï¿½ase tambiï¿½n ==", "== Referencias ==", "== Bibliografï¿½a ==", "== Enlaces externos ==" };
+        string[] pt = { "== Imagens ==", "== Ver tambï¿½m ==", "== Referï¿½ncias ==", "== Notas e referï¿½ncias ==", "== Ligaï¿½ï¿½es externas ==" };
         string[] en = { "== Images ==", " == Additional images ==", "== See also ==", "== References ==", "== Further reading == ", "== External links ==" };
 
         switch (Settings.language)

@@ -9,6 +9,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Lung
   m_Shader: {fileID: -6465566751694194690, guid: 844b409fcc7c344478a14a18354f6a46, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _CLEARCOAT
@@ -17,7 +19,9 @@ Material:
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3001
   stringTagMap: {}
-  disabledShaderPasses: []
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -97,6 +101,8 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 1
     - _ClearCoatSmoothness: 0
+    - _Coat_Mask: 0
+    - _Coat_Smoothness: 0
     - _Cull: 2
     - _CullMode: 2
     - _CullModeForward: 2
@@ -169,6 +175,7 @@ Material:
     - _PlanePosition: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &5168430381954567117
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -181,4 +188,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5
+  version: 9

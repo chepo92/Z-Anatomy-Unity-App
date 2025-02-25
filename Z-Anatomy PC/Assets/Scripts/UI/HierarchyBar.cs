@@ -58,8 +58,9 @@ public class HierarchyBar : MonoBehaviour
         float buttonsWidth = GetWidth();
         float parentWidth = buttonsParent.GetWidth();
         int i = 0;
-        while (buttonsParent.childCount > 0 && buttonsWidth > parentWidth)
+        while (buttonsParent.childCount > i && buttonsWidth > parentWidth)
         {
+            Debug.Log("i= "+i+" buttonsParent.childCount= "+buttonsParent.childCount+" buttonsWidth= "+buttonsWidth);
             buttonsWidth -= buttonsParent.GetChild(i).GetComponent<RectTransform>().GetWidth() + layout.spacing + 5;
             Destroy(buttonsParent.GetChild(i).gameObject);
             i++;

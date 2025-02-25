@@ -176,7 +176,7 @@ public class CrossSections : MonoBehaviour
         ActionControl.crossSectionsEnabled = false;
     }
 
-    private void SetCulling(bool state)
+    /*private void SetCulling(bool state)
     {
         foreach (var renderer in affectedRenderers)
         {
@@ -186,8 +186,25 @@ public class CrossSections : MonoBehaviour
                     renderer.sharedMaterials = doubleSidedeMaterials[renderer];
                 else
                     renderer.sharedMaterials = originalMaterials[renderer];
+   
             }
         }      
+    }*/
+    
+    private void SetCulling(bool state)
+    {
+        foreach (var renderer in affectedRenderers)
+        {
+            if (!originalMaterials.ContainsKey(renderer)) continue;
+            if (renderer.sharedMaterials != null) continue;
+            foreach (var material in renderer.sharedMaterials)
+            {
+                if (material == null) continue;
+
+                // 0 = Cull Off (Double Face), 1 = Cull Back (Face avant seulement)
+                material.SetInt("_Cull", state ? 0 : 1);
+            }
+        }
     }
 
     private void OnDisable()
