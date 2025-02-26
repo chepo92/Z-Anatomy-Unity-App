@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 866604f59e79e4646b0d6f59346cf738, type: 3}
+  m_Name: UIStyleLight
+  m_EditorClassIdentifier: 
+  UIStyleName: Light
+  HighlightColor: {r: 0.6117647, g: 0.8039216, b: 0.8627451, a: 1}
+  SecondaryColor: {r: 0.16108933, g: 0.1733515, b: 0.18867922, a: 0.5882353}
+  SurfaceColor: {r: 0.7735849, g: 0.7699359, b: 0.7699359, a: 0.8627451}
+  OnSurfaceColor: {r: 0.8679245, g: 0.8474546, b: 0.8474546, a: 0.8627451}
+  BackgroundColor: {r: 0.85098046, g: 0.8431373, b: 0.854902, a: 1}
+  IconColor: {r: 0.0754717, g: 0.0754717, b: 0.0754717, a: 0.8627451}
+  DisabledIconColor: {r: 0.254717, g: 0.254717, b: 0.254717, a: 0.8627451}
+  TaskBarColor: {r: 0.735849, g: 0.735849, b: 0.735849, a: 1}
+  labelFontSize: 1.75
+  titleLabelFontSize: 3.5
+  lineSize: 1.5

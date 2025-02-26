@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
+using ZAnatomy;
 
 public class GlobalVariables : MonoBehaviour
 {
@@ -25,7 +26,12 @@ public class GlobalVariables : MonoBehaviour
     private Color _disabledIconColor;
     [SerializeField]
     private Color _taskBarColor;
-
+    
+    [SerializeField]
+    private List<UIStyle> _uiStyles;
+    private UIStyle _selectedStyle;
+    private int _selectedStyleIndex;
+    
     public float labelFontSize;
     public float titleLabelFontSize;
     public float lineSize;
@@ -102,6 +108,7 @@ public class GlobalVariables : MonoBehaviour
         regions = allBodyParts.Where(it => it.CompareTag("BodyParts")).ToList();
         references = allBodyParts.Where(it => it.CompareTag("References")).ToList();
         
+        _selectedStyle = _uiStyles[_selectedStyleIndex];
 
         foreach (Transform section in globalParent.transform)
             bodySections.Add(section.gameObject);
