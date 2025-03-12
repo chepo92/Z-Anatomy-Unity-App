@@ -164,8 +164,8 @@ public class Layers : MonoBehaviour
                         allBodyParts.Remove(name);
                         layerObjects[i].Add(found.gameObject);
                     }
-                    else
-                        Debug.Log(parts[j]);
+                    //else
+                        //Debug.Log(parts[j]);
                 }
                 else if(allBodyParts.ContainsKey(name.RemoveSuffix()))
                 {
@@ -175,11 +175,11 @@ public class Layers : MonoBehaviour
                         allBodyParts.Remove(name.RemoveSuffix());
                         layerObjects[i].Add(found.gameObject);
                     }
-                    else
-                        Debug.Log(parts[j]);
+                    //else
+                        //Debug.Log(parts[j]);
                 }
-                else
-                    Debug.Log(parts[j]);
+                //else
+                    //Debug.Log(parts[j]);
             }
 
             i++;

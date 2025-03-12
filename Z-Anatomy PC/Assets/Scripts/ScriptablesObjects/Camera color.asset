@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 866604f59e79e4646b0d6f59346cf738, type: 3}
+  m_Name: Camera color
+  m_EditorClassIdentifier: 
+  UIStyleName: CameraCOlor
+  HighlightColor: {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  SecondaryColor: {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  SurfaceColor: {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  OnSurfaceColor: {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  BackgroundColor: {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  IconColor: {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  DisabledIconColor: {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  TaskBarColor: {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  labelFontSize: 1.75
+  titleLabelFontSize: 3.5
+  lineSize: 1.5
