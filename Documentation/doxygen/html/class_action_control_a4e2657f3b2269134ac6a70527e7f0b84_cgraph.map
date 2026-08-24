@@ -1,0 +1,9 @@
+<map id="ActionControl.BoxSelectionClick" name="ActionControl.BoxSelectionClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,187,99"/>
+<area shape="rect" id="Node000002" href="$class_lasso_selection.html#a7351dae0907cce6f4107405b205bf80a" title=" " alt="" coords="267,5,412,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,53,269,35,264,37,188,58"/>
+<area shape="rect" id="Node000003" href="$class_toggle_change_color.html#a4a4032ca574a278e9b643737811abecf" title=" " alt="" coords="235,56,445,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,75,222,77,217,78,188,80"/>
+<area shape="rect" id="Node000004" href="$class_toggle_change_color.html#a5151f16be3bac74ac7ac5d02b7dff1f4" title=" " alt="" coords="237,123,443,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,97,247,117,242,119,176,102"/>
+</map>

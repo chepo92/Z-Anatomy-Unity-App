@@ -1,0 +1,7 @@
+<map id="MoveCommand.MoveCommand" name="MoveCommand.MoveCommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="238,31,447,57"/>
+<area shape="rect" id="Node000002" href="$class_move_command.html#afeda96a9e7276b0dea5cbf76b4a75669" title=" " alt="" coords="19,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,32,177,29,177,24,225,31"/>
+<area shape="rect" id="Node000003" href="$class_translate_object.html#aca54cd34c16e45ba9b73ff421e6bb752" title=" " alt="" coords="5,56,190,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,57,190,62,190,57,225,56"/>
+</map>

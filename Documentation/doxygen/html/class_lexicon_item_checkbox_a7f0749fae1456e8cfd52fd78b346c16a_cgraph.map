@@ -1,0 +1,23 @@
+<map id="LexiconItemCheckbox.OnPointerDown" name="LexiconItemCheckbox.OnPointerDown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,122,253,149"/>
+<area shape="rect" id="Node000002" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="323,55,519,98"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,119,309,98,305,101,200,124"/>
+<area shape="rect" id="Node000003" href="$class_button_sprite_swap.html#aa8dc0d4fe4c4ce1988e2615a0e113fbb" title=" " alt="" coords="321,122,520,149"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,133,308,135,303,136,254,138"/>
+<area shape="rect" id="Node000004" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="301,173,541,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,147,327,168,323,171,210,152"/>
+<area shape="rect" id="Node000005" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="831,41,1000,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="522,170,539,159,552,145,558,130,561,97,565,65,573,50,587,36,621,18,657,8,695,3,733,4,806,15,868,35,863,35,805,20,733,9,695,9,658,13,623,23,591,40,577,53,570,67,566,98,563,131,556,147,543,163,525,175"/>
+<area shape="rect" id="Node000006" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="589,74,776,117"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="506,170,540,158,564,143,588,126,598,124,603,122,590,131,567,148,542,163,508,175"/>
+<area shape="rect" id="Node000007" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="589,165,776,207"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="541,183,576,186,571,186,542,189"/>
+<area shape="rect" id="Node000008" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="824,202,1007,229"/>
+<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="478,197,532,209,589,217,683,220,776,217,811,219,806,219,776,222,683,226,589,222,531,214,478,203"/>
+<area shape="rect" id="Node000009" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="616,282,749,309"/>
+<area shape="poly" id="edge11_Node000004_Node000009" title=" " alt="" coords="450,197,590,261,627,277,621,276,588,266,449,202"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="776,76,824,70,819,71,778,81"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="639,72,637,64,644,55,660,49,683,47,708,50,724,59,719,58,706,55,683,53,661,55,647,59,642,65,643,75"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="639,163,637,155,644,146,660,140,683,138,708,141,724,149,719,149,706,146,683,143,661,145,647,150,642,156,643,166"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="777,195,812,202,806,202,777,201"/>
+</map>

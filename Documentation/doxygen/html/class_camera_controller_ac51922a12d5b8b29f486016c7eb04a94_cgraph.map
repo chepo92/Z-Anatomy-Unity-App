@@ -1,0 +1,5 @@
+<map id="CameraController.CenterImmediate" name="CameraController.CenterImmediate">
+<area shape="rect" id="Node000001" title="Centers the camera immediately without interpolation." alt="" coords="5,13,233,40"/>
+<area shape="rect" id="Node000002" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="281,5,477,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,24,267,27,262,27,233,29"/>
+</map>

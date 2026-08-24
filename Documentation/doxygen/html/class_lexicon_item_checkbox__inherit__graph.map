@@ -1,0 +1,9 @@
+<map id="LexiconItemCheckbox" name="LexiconItemCheckbox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,80,287,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,36,188,78,183,81,100,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,5,283,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,46,214,81,209,78,210,50"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="307,5,452,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,38,242,82,240,77,334,39"/>
+</map>

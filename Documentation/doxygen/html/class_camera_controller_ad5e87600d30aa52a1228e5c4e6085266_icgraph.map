@@ -1,0 +1,19 @@
+<map id="CameraController.LerpHorizontal" name="CameraController.LerpHorizontal">
+<area shape="rect" id="Node000001" title="Initiates a coroutine to move the camera horizontally to its new position over a specified time perio..." alt="" coords="827,97,1039,124"/>
+<area shape="rect" id="Node000002" href="$class_panels_management.html#aa6be0e4c79e61aa610a5d01cfaa4902f" title=" " alt="" coords="562,89,779,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="809,111,780,113,780,108,814,111"/>
+<area shape="rect" id="Node000003" href="$class_panels_management.html#a8b0619f1c23d8087a2834550f8e2e13b" title=" " alt="" coords="275,123,514,149"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="549,122,515,128,514,122,544,122"/>
+<area shape="rect" id="Node000004" href="$class_panels_management.html#a59afb01bc25199d40939a0ed36d9239f" title=" " alt="" coords="16,72,216,99"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="546,108,216,93,216,87,548,103"/>
+<area shape="rect" id="Node000005" href="$class_panels_management.html#ae7ff785d2a4724e7a917c47467dad107" title=" " alt="" coords="5,123,227,149"/>
+<area shape="poly" id="edge10_Node000002_Node000005" title=" " alt="" coords="604,137,560,154,514,164,427,172,339,170,257,163,189,153,189,147,258,157,339,165,427,166,514,159,558,149,599,138"/>
+<area shape="rect" id="Node000006" href="$class_panels_management.html#ae6f0167c3b31550e560e63dd63b9b008" title=" " alt="" coords="285,21,504,48"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="576,85,513,69,447,51,448,46,515,64,581,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,120,193,102,193,97,305,118"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="256,136,227,139,227,133,262,136"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="300,53,194,74,192,69,304,50"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="356,55,296,86,228,113,187,125,186,120,226,108,293,81,351,56"/>
+<area shape="rect" id="Node000007" href="$class_search_engine.html#abf7e89f48b81b47afea4ce3865970de5" title=" " alt="" coords="24,5,208,48"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="267,32,209,32,208,27,272,30"/>
+</map>

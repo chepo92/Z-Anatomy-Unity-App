@@ -1,0 +1,15 @@
+<map id="LexiconItemCheckbox" name="LexiconItemCheckbox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,180,371,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,117,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,112,267,178,263,181,105,117"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,81,283,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,118,288,180,282,180,231,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="307,81,452,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="361,119,308,182,305,178,356,121"/>
+<area shape="rect" id="Node000005" href="$class_button_sprite_swap.html" title=" " alt="" coords="476,81,603,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="496,114,328,182,327,177,491,114"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="447,5,507,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="498,41,532,82,526,80,496,46"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="530,5,672,32"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="584,42,552,83,549,79,579,45"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="SelectedObjectsManagement.DeselectObject" name="SelectedObjectsManagement.DeselectObject">
+<area shape="rect" id="Node000001" title="Deselects a GameObject from the currently selected objects." alt="" coords="5,115,202,157"/>
+<area shape="rect" id="Node000002" href="$class_hierarchy_bar.html#ad72351240ca9b401b5f967796fcb0cc1" title=" " alt="" coords="280,43,412,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,112,249,79,276,73,272,75,251,84,160,116"/>
+<area shape="rect" id="Node000003" href="$class_tangible_body_part.html#addb5812e6152141b29f47d4881f89441" title="Deselects the object by changing its selection state and hiding its labels and notes." alt="" coords="257,93,436,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,122,243,118,239,121,203,127"/>
+<area shape="rect" id="Node000009" href="$class_names_management.html#a187bea184db6fba1986089b5f2740806" title=" " alt="" coords="250,148,443,175"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="202,144,237,149,232,151,203,149"/>
+<area shape="rect" id="Node000012" href="$class_lexicon.html#ac7c65494b584322aa61f8adb4fdb8607" title=" " alt="" coords="265,223,428,249"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="158,155,300,215,295,218,157,161"/>
+<area shape="rect" id="Node000004" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="521,31,713,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,90,490,67,531,60,526,62,492,72,401,95"/>
+<area shape="rect" id="Node000008" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="516,81,718,124"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="436,103,504,104,499,105,437,108"/>
+<area shape="rect" id="Node000005" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="808,5,996,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="713,33,795,28,790,29,714,38"/>
+<area shape="rect" id="Node000007" href="$class_delete_command.html#a2c39c17d14dba6342bf148af28e6f727" title=" " alt="" coords="791,56,1013,83"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="713,50,778,58,773,59,714,55"/>
+<area shape="rect" id="Node000006" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="1061,5,1199,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="996,16,1048,18,1043,19,997,21"/>
+<area shape="rect" id="Node000010" href="$class_names_management.html#aefcfe541cea7196d510da01b57769586" title=" " alt="" coords="491,148,743,191"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="443,162,478,165,473,166,444,167"/>
+<area shape="rect" id="Node000011" href="$class_highlight_text.html#ad3eb806f90582a81e06d0399850b79d0" title=" " alt="" coords="824,156,980,183"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="744,167,811,169,806,170,744,172"/>
+<area shape="rect" id="Node000013" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="524,215,710,257"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="428,233,511,236,506,236,429,239"/>
+<area shape="rect" id="Node000014" href="$class_lexicon_element.html#a401b942dc784d0f5c9ff8091cbcdefe8" title=" " alt="" coords="524,281,710,324"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="404,247,516,277,510,277,404,253"/>
+</map>

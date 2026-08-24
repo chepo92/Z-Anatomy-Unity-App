@@ -1,0 +1,7 @@
+<map id="PanelsManagement.ShowDescription" name="PanelsManagement.ShowDescription">
+<area shape="rect" id="Node000001" title=" " alt="" coords="275,31,514,57"/>
+<area shape="rect" id="Node000002" href="$class_panels_management.html#a59afb01bc25199d40939a0ed36d9239f" title=" " alt="" coords="16,5,216,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,32,217,30,216,25,262,31"/>
+<area shape="rect" id="Node000003" href="$class_panels_management.html#ae7ff785d2a4724e7a917c47467dad107" title=" " alt="" coords="5,56,227,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,57,227,62,227,57,262,56"/>
+</map>

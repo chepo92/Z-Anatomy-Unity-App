@@ -1,0 +1,23 @@
+<map id="CrossSections" name="CrossSections">
+<area shape="rect" id="Node000001" title=" " alt="" coords="388,556,496,583"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="466,544,485,538,504,540,517,550,522,569,515,591,498,601,475,599,453,586,455,581,477,594,497,595,511,587,517,569,513,553,502,545,486,543,467,549"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="476,5,587,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,33,377,50,287,72,209,100,180,116,161,134,150,143,133,149,90,155,46,163,28,170,16,180,9,195,10,215,21,243,43,280,79,325,130,382,284,530,301,539,326,547,390,562,385,562,325,552,298,544,281,534,126,385,75,329,39,283,16,246,5,216,4,194,11,177,26,165,45,158,89,150,131,144,147,138,158,130,177,112,206,95,286,67,376,44,462,29"/>
+<area shape="rect" id="Node000003" href="$class_expand_collapse_u_i.html" title=" " alt="" coords="161,132,291,159"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="485,40,259,134,256,129,488,36"/>
+<area shape="rect" id="Node000004" href="$class_toggle_change_color.html" title=" " alt="" coords="438,132,574,159"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="527,45,511,133,506,130,525,49"/>
+<area shape="rect" id="Node000005" href="$class_cross_section_plane.html" title=" " alt="" coords="577,213,710,240"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="546,43,639,213,634,213,544,48"/>
+<area shape="rect" id="Node000006" href="$class_mesh_management.html" title=" " alt="" coords="594,81,722,108"/>
+<area shape="poly" id="edge11_Node000006_Node000002" title=" " alt="" coords="566,37,639,80,634,81,566,43"/>
+<area shape="rect" id="Node000007" href="$class_switch_button.html" title=" " alt="" coords="770,213,869,240"/>
+<area shape="poly" id="edge14_Node000007_Node000002" title=" " alt="" coords="602,23,664,30,729,41,784,57,804,68,819,80,829,96,835,114,838,151,833,187,826,214,822,211,828,186,833,151,830,115,824,98,815,83,802,72,782,62,727,47,664,35,603,28"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="237,171,303,329,354,431,412,530,432,556,427,555,408,534,349,433,298,331,235,176"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="306,136,318,145,310,154,293,157,290,152,307,149,313,145,307,141"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="469,166,457,184,436,235,423,289,418,345,418,399,429,494,441,557,436,554,423,495,413,399,413,344,418,288,431,233,453,181,465,170"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="631,253,452,557,448,554,626,254"/>
+<area shape="poly" id="edge10_Node000005_Node000006" title=" " alt="" coords="657,121,647,214,643,212,653,126"/>
+<area shape="poly" id="edge12_Node000006_Node000006" title=" " alt="" coords="737,87,749,95,741,102,724,104,722,99,739,97,744,95,738,92"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="818,254,806,315,782,391,764,431,742,469,715,504,682,534,649,548,601,558,497,568,496,563,601,553,648,543,679,530,711,501,737,466,759,429,777,389,801,314,814,257"/>
+</map>

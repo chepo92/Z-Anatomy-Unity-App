@@ -1,0 +1,5 @@
+<map id="TangibleBodyPart.Select" name="TangibleBodyPart.Select">
+<area shape="rect" id="Node000001" title="Sets the selected outline to the object." alt="" coords="5,13,170,40"/>
+<area shape="rect" id="Node000002" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="218,5,419,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,24,204,26,199,27,170,29"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="MeshManagement.PartialIsolationClick" name="MeshManagement.PartialIsolationClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,224,197"/>
+<area shape="rect" id="Node000002" href="$class_mesh_management.html#a58abe3252b603c681bd44a7404fe6529" title=" " alt="" coords="272,64,451,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,152,289,111,285,114,176,156"/>
+<area shape="rect" id="Node000006" href="$class_action_control.html#ae37bec2cb675ad45de80c9e035545bef" title=" " alt="" coords="294,163,429,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="223,173,281,175,276,177,225,179"/>
+<area shape="rect" id="Node000007" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="499,213,739,240"/>
+<area shape="poly" id="edge16_Node000001_Node000007" title=" " alt="" coords="224,192,272,199,486,218,481,221,271,204,225,198"/>
+<area shape="rect" id="Node000003" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="526,13,713,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,62,545,43,540,45,452,67"/>
+<area shape="rect" id="Node000005" href="$class_delete_command.html#a2c39c17d14dba6342bf148af28e6f727" title=" " alt="" coords="508,72,730,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="451,83,496,85,490,86,452,88"/>
+<area shape="rect" id="Node000004" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="812,5,950,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="713,21,799,21,794,22,714,26"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="429,187,536,209,530,210,429,192"/>
+<area shape="rect" id="Node000008" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="1030,97,1198,124"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="631,210,655,184,692,150,736,117,786,92,820,83,854,77,924,75,990,81,1050,93,1044,94,990,86,924,80,855,82,821,88,788,97,739,121,695,154,659,187,633,215"/>
+<area shape="rect" id="Node000009" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="787,131,975,173"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="668,210,787,179,792,177,669,215"/>
+<area shape="rect" id="Node000010" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="787,221,975,264"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="740,231,774,236,769,236,740,237"/>
+<area shape="rect" id="Node000011" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="1023,259,1205,285"/>
+<area shape="poly" id="edge15_Node000007_Node000011" title=" " alt="" coords="657,238,718,258,788,273,840,279,881,278,975,273,1009,275,1004,276,975,279,881,284,840,284,787,279,716,263,656,243"/>
+<area shape="rect" id="Node000012" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="814,339,948,365"/>
+<area shape="poly" id="edge14_Node000007_Node000012" title=" " alt="" coords="643,238,708,276,788,318,823,334,818,333,786,322,705,281,642,243"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="975,133,1022,127,1017,128,976,138"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="837,129,835,121,842,112,858,106,881,104,906,106,922,115,917,115,905,112,881,109,859,111,846,116,840,122,842,131"/>
+<area shape="poly" id="edge12_Node000010_Node000010" title=" " alt="" coords="837,219,835,211,842,202,858,197,881,195,906,197,922,206,917,205,905,202,881,200,859,202,846,207,840,213,842,222"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="975,252,1010,259,1005,259,975,257"/>
+</map>

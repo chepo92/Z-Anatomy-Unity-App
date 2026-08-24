@@ -1,0 +1,26 @@
+<map id="PanelsManagement.ShowLexicon" name="PanelsManagement.ShowLexicon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,224,133"/>
+<area shape="rect" id="Node000002" href="$class_expand_collapse_u_i.html#a5eac2ec325241121a9d0280d54f245ba" title=" " alt="" coords="288,5,473,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,104,198,73,271,42,298,35,293,38,273,46,200,78,141,108"/>
+<area shape="rect" id="Node000003" href="$class_tab.html#a7b051e1c07290533091ab5ccd4af05b9" title=" " alt="" coords="331,56,430,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,103,318,80,314,83,189,109"/>
+<area shape="rect" id="Node000009" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="291,107,470,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="224,117,278,119,273,121,225,123"/>
+<area shape="rect" id="Node000010" href="$class_tab.html#a49f3c2901657c890e60ffc7b21f47159" title=" " alt="" coords="339,157,422,184"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="189,131,326,159,321,161,188,137"/>
+<area shape="rect" id="Node000011" href="$class_panels_management.html#aa6be0e4c79e61aa610a5d01cfaa4902f" title=" " alt="" coords="272,208,489,251"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="142,131,201,162,273,194,292,203,287,202,271,198,199,166,141,137"/>
+<area shape="rect" id="Node000004" href="$class_tab_group.html#aa7baa8705ef148c32094d3978857ddeb" title=" " alt="" coords="566,107,719,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="430,76,557,103,552,104,430,81"/>
+<area shape="rect" id="Node000005" href="$class_tab.html#a6815ce96a06f16ab931acc4d750534b7" title=" " alt="" coords="801,31,957,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="685,103,796,67,816,63,821,62,797,72,686,109"/>
+<area shape="rect" id="Node000006" href="$class_tab.html#ab69008119ce7f6016616c779871106e0" title=" " alt="" coords="796,81,962,108"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="719,109,784,105,778,106,720,114"/>
+<area shape="rect" id="Node000007" href="$class_tab.html#a861d685baa9f13b4821aa450a1bd1c9a" title=" " alt="" coords="815,132,943,159"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="720,126,802,137,797,137,720,131"/>
+<area shape="rect" id="Node000008" href="$class_tab.html#a7bb19f4492e15e6c78efd2a313d77d0e" title=" " alt="" coords="811,183,947,209"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="686,131,797,168,821,178,816,177,796,173,685,137"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="422,160,557,136,552,137,423,165"/>
+<area shape="rect" id="Node000012" href="$class_camera_controller.html#ad5e87600d30aa52a1228e5c4e6085266" title="Initiates a coroutine to move the camera horizontally to its new position over a specified time perio..." alt="" coords="537,216,748,243"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="489,227,524,229,519,229,490,232"/>
+</map>

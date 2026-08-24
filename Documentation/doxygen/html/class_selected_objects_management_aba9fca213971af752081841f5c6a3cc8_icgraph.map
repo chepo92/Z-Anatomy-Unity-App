@@ -1,0 +1,42 @@
+<map id="SelectedObjectsManagement.NoBodyPartInfo" name="SelectedObjectsManagement.NoBodyPartInfo">
+<area shape="rect" id="Node000001" title="Clear the hierarchy bar and highlighted item in the lexicon." alt="" coords="760,435,957,477"/>
+<area shape="rect" id="Node000002" href="$class_selected_objects_management.html#a1574aa0b6e3e1f742354dcb3e04b606a" title="Deselects all selected objects." alt="" coords="516,435,712,477"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="742,457,714,459,712,453,747,455"/>
+<area shape="rect" id="Node000003" href="$class_action_control.html#aca401031675eddf0b28684678d465a97" title=" " alt="" coords="261,5,457,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="609,418,600,341,577,240,559,187,535,135,504,87,466,46,452,35,451,30,470,42,508,84,539,133,564,185,582,238,605,340,614,420"/>
+<area shape="rect" id="Node000004" href="$class_lexicon_element.html#ade6110168b807cc5da5476f7aa1cacff" title=" " alt="" coords="274,56,444,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="606,419,593,352,568,267,549,222,527,179,499,139,466,103,439,86,438,81,470,99,503,135,531,176,554,220,573,265,598,351,611,420"/>
+<area shape="rect" id="Node000005" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="5,81,202,108"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="605,419,591,359,565,284,547,246,524,209,498,176,466,148,448,137,422,128,354,115,277,106,203,100,201,96,277,100,355,109,423,123,450,132,470,143,502,172,529,206,551,243,570,282,596,357,610,420"/>
+<area shape="rect" id="Node000006" href="$class_select_command.html#a4adfba5781cb1795ec4cdb9cd5a03c3a" title=" " alt="" coords="274,157,444,184"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="600,419,583,370,555,309,517,249,493,222,466,198,445,186,444,180,470,194,497,218,521,246,560,307,588,368,606,420"/>
+<area shape="rect" id="Node000007" href="$class_contextual_menu.html#ae952072e6aebdc34154809d257b87cee" title=" " alt="" coords="270,208,448,235"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="595,420,575,381,547,334,510,287,466,249,447,238,446,233,470,244,514,284,551,331,580,378,601,421"/>
+<area shape="rect" id="Node000008" href="$class_selected_objects_management.html#a7fb674f9abbc061fae38bb66c4e2e728" title="Inverts the current selection by selecting all objects that are not currently selected,..." alt="" coords="261,259,457,301"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="584,423,534,368,501,340,467,316,445,304,444,299,469,311,505,336,537,365,590,422"/>
+<area shape="rect" id="Node000009" href="$class_contextual_menu.html#a6153bad2bb7f98bc1367544870f1d3d1" title=" " alt="" coords="264,325,454,352"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="570,426,523,395,467,366,435,355,434,350,469,362,526,391,576,425"/>
+<area shape="rect" id="Node000010" href="$class_contextual_menu.html#ad3bb957ded433c8f085c763aa8e261af" title=" " alt="" coords="259,376,458,419"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="501,432,456,422,454,417,506,430"/>
+<area shape="rect" id="Node000011" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="254,443,464,469"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="498,457,465,458,463,454,503,455"/>
+<area shape="rect" id="Node000012" href="$class_collections.html#a302bca30e3f236a6be9486495e917f76" title=" " alt="" coords="250,493,468,536"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="501,483,456,495,454,490,506,480"/>
+<area shape="rect" id="Node000013" href="$class_contextual_menu.html#acd4c1000ed1e4a27c603c872ef44b445" title=" " alt="" coords="275,560,442,603"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="569,488,524,521,469,550,441,562,438,557,467,546,521,516,573,485"/>
+<area shape="rect" id="Node000014" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="282,627,436,653"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="593,488,542,556,508,589,469,617,438,630,435,626,467,612,504,585,538,553,589,492"/>
+<area shape="rect" id="Node000015" href="$class_contextual_menu.html#aa4e81544ee1a9e9754b699f2360809ed" title=" " alt="" coords="258,677,460,720"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="599,490,579,534,550,580,513,627,470,667,450,679,447,675,466,663,509,624,546,577,574,531,595,494"/>
+<area shape="rect" id="Node000016" href="$class_bonus_collections.html#a4f18fdd0b2d21d6bcb40c99a120f10f1" title=" " alt="" coords="250,744,468,771"/>
+<area shape="poly" id="edge16_Node000002_Node000016" title=" " alt="" coords="606,490,590,547,562,613,523,678,498,708,470,734,450,746,447,741,466,730,494,705,518,675,558,610,585,545,603,495"/>
+<area shape="rect" id="Node000018" href="$class_bonus_collections.html#ad0ba7fe4c7574fdb4970bf29eb0bca76" title=" " alt="" coords="250,795,468,821"/>
+<area shape="poly" id="edge18_Node000002_Node000018" title=" " alt="" coords="609,491,596,557,570,636,552,677,529,716,502,753,470,785,451,796,449,792,466,781,498,749,525,713,547,674,565,634,591,555,606,495"/>
+<area shape="rect" id="Node000019" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="253,845,464,872"/>
+<area shape="poly" id="edge19_Node000002_Node000019" title=" " alt="" coords="611,491,601,566,577,658,559,707,535,754,506,797,470,835,452,847,450,842,466,831,502,794,531,751,554,705,572,657,596,565,608,495"/>
+<area shape="rect" id="Node000020" href="$class_selected_objects_management.html#a91bae1160eb4529889e6477e3ea029ba" title=" " alt="" coords="261,896,457,939"/>
+<area shape="poly" id="edge20_Node000002_Node000020" title=" " alt="" coords="613,491,605,574,582,679,564,735,539,790,508,841,470,886,454,898,452,893,466,882,504,838,535,787,559,733,577,678,600,573,610,495"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="256,81,204,87,200,83,260,78"/>
+<area shape="rect" id="Node000017" href="$class_bonus_collection_item.html#acf23cc61e3608a0a5fb56cc7d6aa980f" title=" " alt="" coords="15,744,192,771"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="232,758,193,760,192,755,236,756"/>
+</map>

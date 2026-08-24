@@ -1,0 +1,34 @@
+<map id="LexiconElement.Open" name="LexiconElement.Open">
+<area shape="rect" id="Node000001" title=" " alt="" coords="808,267,958,293"/>
+<area shape="rect" id="Node000002" href="$class_lexicon.html#a13f814ca9d081053db23c1cc3aa0d5b5" title=" " alt="" coords="553,216,736,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="799,263,711,246,711,241,805,263"/>
+<area shape="rect" id="Node000015" href="$class_lexicon_element.html#a09586c1d30526814734be432ccf21501" title=" " alt="" coords="529,267,760,293"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="790,280,761,283,760,277,795,280"/>
+<area shape="rect" id="Node000016" href="$class_lexicon_element.html#a62cfa856cd3940100fcfc27ba99fa7de" title=" " alt="" coords="553,317,736,360"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="814,297,735,319,734,314,809,298"/>
+<area shape="rect" id="Node000003" href="$class_label.html#a0c137d7d8248ae87ad1fa717c9c4c1bf" title="Handles the click event of the label and updates the UI." alt="" coords="329,5,415,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="625,202,601,168,568,125,527,82,480,46,448,33,416,25,415,20,449,27,482,42,531,78,572,122,606,165,630,203"/>
+<area shape="rect" id="Node000004" href="$class_lexicon_element.html#ade6110168b807cc5da5476f7aa1cacff" title=" " alt="" coords="287,56,457,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="616,205,557,155,520,128,480,104,435,86,434,81,482,99,523,123,561,151,621,205"/>
+<area shape="rect" id="Node000005" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="12,77,208,104"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="607,208,550,177,480,148,411,129,339,115,209,99,208,94,340,110,412,124,482,143,552,172,612,207"/>
+<area shape="rect" id="Node000006" href="$class_hierarchy_button.html#a0906c341355a0461c23265da273e6e80" title=" " alt="" coords="289,157,455,184"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="562,213,438,187,437,182,567,211"/>
+<area shape="rect" id="Node000008" href="$class_selected_objects_management.html#a423bd57503484c3f543e088d06ec6048" title="Shows the body part information of a given game object. Sets the description of the object using its ..." alt="" coords="274,208,470,251"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="535,230,471,232,470,227,540,229"/>
+<area shape="rect" id="Node000011" href="$class_bonus_collections.html#ad0ba7fe4c7574fdb4970bf29eb0bca76" title=" " alt="" coords="263,275,481,301"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="562,247,438,277,437,271,567,245"/>
+<area shape="rect" id="Node000012" href="$class_contextual_menu.html#a3ae5b603d7361c077533eb3ffeeeaeab" title=" " alt="" coords="276,325,468,368"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="542,248,531,257,515,270,507,285,498,300,483,315,461,327,459,322,479,311,494,297,502,282,511,267,527,252,537,250"/>
+<area shape="rect" id="Node000013" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="266,392,478,419"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="541,246,531,257,518,271,511,286,508,318,504,350,496,366,483,382,465,394,463,389,479,378,492,364,499,349,502,317,506,284,514,268,527,253,537,249"/>
+<area shape="rect" id="Node000014" href="$class_selected_objects_management.html#a91bae1160eb4529889e6477e3ea029ba" title=" " alt="" coords="274,443,470,485"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="541,245,531,257,515,277,507,298,506,320,507,342,507,387,499,410,483,432,468,445,466,440,479,429,494,407,501,386,501,342,500,320,502,297,510,275,527,253,537,248"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,79,210,85,207,80,274,76"/>
+<area shape="rect" id="Node000007" href="$class_hierarchy_button.html#a1120572edd81dea744858740db7b707f" title=" " alt="" coords="21,149,199,192"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="271,172,200,173,198,168,275,169"/>
+<area shape="rect" id="Node000009" href="$class_select_command.html#a4adfba5781cb1795ec4cdb9cd5a03c3a" title=" " alt="" coords="25,216,195,243"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="256,231,196,232,195,227,260,228"/>
+<area shape="rect" id="Node000010" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="5,267,215,293"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="256,253,184,268,182,264,260,250"/>
+</map>

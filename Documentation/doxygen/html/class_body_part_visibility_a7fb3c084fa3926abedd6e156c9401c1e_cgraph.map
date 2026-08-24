@@ -1,0 +1,7 @@
+<map id="BodyPartVisibility.FindInsertionsAndNerves" name="BodyPartVisibility.FindInsertionsAndNerves">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,215,65"/>
+<area shape="rect" id="Node000002" href="$class_muscle_groups.html#a628d2072dcdc4b9755ee507706207f9c" title=" " alt="" coords="263,5,485,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,31,250,30,244,31,216,37"/>
+<area shape="rect" id="Node000003" href="$class_nerve_groups.html#a62b2c4a00d901df43c873a89dad371a0" title=" " alt="" coords="270,56,478,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,51,257,58,252,58,215,57"/>
+</map>

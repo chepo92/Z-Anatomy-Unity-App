@@ -1,0 +1,19 @@
+<map id="ActionControl.Undo" name="ActionControl.Undo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="531,157,666,184"/>
+<area shape="rect" id="Node000002" href="$class_mesh_management.html#addd6f09f580bdbd626817795c6fd59d8" title=" " alt="" coords="283,99,464,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,154,465,143,465,138,524,153"/>
+<area shape="rect" id="Node000007" href="$class_mesh_management.html#af6ff2aea511ccd0dd659dfa1d7147f88" title=" " alt="" coords="265,200,483,243"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="524,187,472,202,471,197,519,189"/>
+<area shape="rect" id="Node000003" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="13,5,209,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,92,270,69,216,47,180,35,179,30,218,41,272,64,323,91"/>
+<area shape="rect" id="Node000004" href="$class_action_control.html#a52d0b2d5d2fe908e70cdfdc7061579c6" title=" " alt="" coords="39,56,183,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="266,101,183,86,183,80,270,98"/>
+<area shape="rect" id="Node000005" href="$class_contextual_menu.html#a6153bad2bb7f98bc1367544870f1d3d1" title=" " alt="" coords="16,107,206,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="265,121,207,123,206,117,270,119"/>
+<area shape="rect" id="Node000006" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="5,157,217,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="265,142,185,159,183,154,270,139"/>
+<area shape="rect" id="Node000008" href="$class_action_control.html#a5dc879ecd8c2d4f69a4d85315a9bb6e8" title=" " alt="" coords="16,208,206,235"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="246,222,207,224,206,219,251,221"/>
+<area shape="rect" id="Node000009" href="$class_contextual_menu.html#acd4c1000ed1e4a27c603c872ef44b445" title=" " alt="" coords="27,259,195,301"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="263,246,196,264,194,259,258,247"/>
+</map>

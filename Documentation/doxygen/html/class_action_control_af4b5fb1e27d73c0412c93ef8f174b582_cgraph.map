@@ -1,0 +1,21 @@
+<map id="ActionControl.ScalpelClick" name="ActionControl.ScalpelClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,183,140"/>
+<area shape="rect" id="Node000002" href="$class_action_control.html#a4e2657f3b2269134ac6a70527e7f0b84" title=" " alt="" coords="237,5,418,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,110,230,58,248,53,244,55,232,62,123,115"/>
+<area shape="rect" id="Node000005" href="$class_toggle_change_color.html#a5151f16be3bac74ac7ac5d02b7dff1f4" title=" " alt="" coords="474,139,680,181"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="116,138,168,167,199,181,231,191,295,200,361,200,424,193,479,186,484,185,425,198,361,205,295,205,230,196,197,186,165,172,115,143"/>
+<area shape="rect" id="Node000006" href="$class_action_control.html#ab4fd8d9427750711b6f7d86b0970dff9" title=" " alt="" coords="231,72,424,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="182,111,218,108,213,110,184,117"/>
+<area shape="rect" id="Node000007" href="$class_action_control.html#aeae83047b0d0f182a501f0435967def8" title=" " alt="" coords="231,139,424,181"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="183,137,218,144,213,144,183,142"/>
+<area shape="rect" id="Node000003" href="$class_lasso_selection.html#a7351dae0907cce6f4107405b205bf80a" title=" " alt="" coords="504,17,650,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,25,492,29,487,30,419,31"/>
+<area shape="rect" id="Node000004" href="$class_toggle_change_color.html#a4a4032ca574a278e9b643737811abecf" title=" " alt="" coords="472,72,682,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="410,46,483,67,478,68,410,51"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="406,46,426,58,442,75,450,92,458,109,474,125,481,132,476,130,470,129,454,112,446,95,437,78,422,62,405,51"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="414,69,509,48,503,49,416,74"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="424,91,459,93,454,94,424,96"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="410,113,483,134,478,134,410,118"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="409,135,478,120,483,119,411,141"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="424,157,461,160,455,160,425,163"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="TabGroup.TabSelected" name="TabGroup.TabSelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,159,108"/>
+<area shape="rect" id="Node000002" href="$class_tab.html#a6815ce96a06f16ab931acc4d750534b7" title=" " alt="" coords="211,5,368,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,78,206,42,229,36,224,38,208,46,116,83"/>
+<area shape="rect" id="Node000003" href="$class_tab.html#ab69008119ce7f6016616c779871106e0" title=" " alt="" coords="207,56,372,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,83,193,80,189,82,160,88"/>
+<area shape="rect" id="Node000004" href="$class_tab.html#a861d685baa9f13b4821aa450a1bd1c9a" title=" " alt="" coords="226,107,353,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,101,213,110,208,111,159,107"/>
+<area shape="rect" id="Node000005" href="$class_tab.html#a7bb19f4492e15e6c78efd2a313d77d0e" title=" " alt="" coords="221,157,358,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="115,106,208,143,229,152,224,152,206,148,114,111"/>
+</map>

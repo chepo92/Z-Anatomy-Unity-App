@@ -1,0 +1,5 @@
+<map id="BodyPartVisibility.ShowInsertions" name="BodyPartVisibility.ShowInsertions">
+<area shape="rect" id="Node000001" title="Shows all insertions for a skeleton or muscle object." alt="" coords="264,13,481,40"/>
+<area shape="rect" id="Node000002" href="$class_contextual_menu.html#a31f8755703da69e6496a155233d7a4ca" title=" " alt="" coords="5,5,216,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,27,216,29,216,24,251,27"/>
+</map>

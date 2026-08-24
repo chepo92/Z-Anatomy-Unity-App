@@ -1,0 +1,9 @@
+<map id="MoveCommand.Undo" name="MoveCommand.Undo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,154,57"/>
+<area shape="rect" id="Node000002" href="$class_translate_object.html#af89d1ef3759183205d219b2794285c5c" title=" " alt="" coords="202,23,377,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,41,188,44,183,44,154,47"/>
+<area shape="rect" id="Node000003" href="$class_translate_object.html#a1b64d9653c33cb12d2b23868db7cb4d2" title=" " alt="" coords="451,5,612,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,32,438,28,433,29,378,37"/>
+<area shape="rect" id="Node000004" href="$class_tangible_body_part.html#a56fefb3df25bb77c2f142b9c24bf08c8" title="Updates the bounds of the mesh collider to match the bounds of the mesh. This function is useful when..." alt="" coords="425,56,638,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="378,51,412,57,407,57,377,56"/>
+</map>

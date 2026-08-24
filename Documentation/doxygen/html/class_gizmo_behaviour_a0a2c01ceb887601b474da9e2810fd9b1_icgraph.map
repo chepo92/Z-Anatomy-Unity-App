@@ -1,0 +1,6 @@
+<map id="GizmoBehaviour.SetCameraRotation" name="GizmoBehaviour.SetCameraRotation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="273,29,460,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="406,13,392,10,366,8,343,10,328,15,322,21,324,30,319,27,317,19,325,10,341,5,366,3,393,5,411,14"/>
+<area shape="rect" id="Node000002" href="$class_gizmo_behaviour.html#ab2d383b2ea19e7d390ccdfe70b412efc" title=" " alt="" coords="5,37,225,64"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="254,51,225,53,225,48,259,51"/>
+</map>

@@ -1,0 +1,57 @@
+<map id="ContextualMenu.ShowMuscleClick" name="ContextualMenu.ShowMuscleClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,90,201,132"/>
+<area shape="rect" id="Node000002" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="1340,28,1527,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,87,191,63,248,42,354,17,439,5,524,3,634,3,879,3,999,5,1118,12,1327,30,1322,31,1118,17,998,11,879,8,634,8,524,8,439,11,355,22,249,47,193,67,144,91"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_scripts_1_1_commands_1_1_show_command.html#afae739e7131c5af73e291322778d157e" title=" " alt="" coords="263,56,474,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,97,250,91,246,95,203,101"/>
+<area shape="rect" id="Node000005" href="$class_body_part_visibility.html#ae811c5538ac2234f83514443aee702f0" title="Shows the muscles connected to the insertion points of this game object." alt="" coords="264,123,474,166"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="200,121,251,128,246,131,202,126"/>
+<area shape="rect" id="Node000020" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="249,322,489,348"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="131,130,342,311,338,313,129,135"/>
+<area shape="rect" id="Node000003" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="1592,28,1731,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1528,39,1580,41,1574,42,1528,44"/>
+<area shape="rect" id="Node000006" href="$class_selected_objects_management.html#a494c9715c282ac39a6abccad66ce424b" title="Deselects a GameObject from the currently selected objects." alt="" coords="537,136,733,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="474,147,524,151,519,153,475,152"/>
+<area shape="rect" id="Node000018" href="$class_selected_objects_management.html#a53480cd3be7a8d0db9027d8c8a575f19" title="Selects a GameObject." alt="" coords="537,56,733,99"/>
+<area shape="poly" id="edge18_Node000005_Node000018" title=" " alt="" coords="456,120,535,102,530,105,458,125"/>
+<area shape="rect" id="Node000007" href="$class_hierarchy_bar.html#ad72351240ca9b401b5f967796fcb0cc1" title=" " alt="" coords="812,94,944,120"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="733,135,799,123,794,125,735,140"/>
+<area shape="rect" id="Node000008" href="$class_tangible_body_part.html#addb5812e6152141b29f47d4881f89441" title="Deselects the object by changing its selection state and hiding its labels and notes." alt="" coords="788,144,968,171"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="733,155,775,157,770,158,734,160"/>
+<area shape="rect" id="Node000012" href="$class_names_management.html#a187bea184db6fba1986089b5f2740806" title=" " alt="" coords="781,195,975,222"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="734,176,798,191,793,192,734,181"/>
+<area shape="rect" id="Node000015" href="$class_lexicon.html#ac7c65494b584322aa61f8adb4fdb8607" title=" " alt="" coords="796,246,960,272"/>
+<area shape="poly" id="edge15_Node000006_Node000015" title=" " alt="" coords="705,177,735,192,759,212,769,222,783,231,798,240,792,240,780,236,765,226,755,216,732,196,704,182"/>
+<area shape="rect" id="Node000009" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="1053,115,1245,142"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="968,145,1040,140,1035,141,969,151"/>
+<area shape="rect" id="Node000011" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="1048,46,1250,88"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="941,141,974,130,997,116,1021,101,1048,93,1044,95,1024,105,1000,120,976,135,943,146"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="1219,112,1274,98,1383,62,1388,60,1276,103,1221,117"/>
+<area shape="rect" id="Node000010" href="$class_delete_command.html#a2c39c17d14dba6342bf148af28e6f727" title=" " alt="" coords="1323,115,1544,142"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1245,126,1310,128,1305,129,1246,131"/>
+<area shape="rect" id="Node000013" href="$class_names_management.html#aefcfe541cea7196d510da01b57769586" title=" " alt="" coords="1023,171,1275,214"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="975,200,1010,200,1004,201,975,205"/>
+<area shape="rect" id="Node000014" href="$class_highlight_text.html#ad3eb806f90582a81e06d0399850b79d0" title=" " alt="" coords="1356,179,1512,206"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1275,190,1343,192,1338,193,1276,195"/>
+<area shape="rect" id="Node000016" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="1056,238,1242,280"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="960,256,1043,259,1037,259,960,262"/>
+<area shape="rect" id="Node000017" href="$class_lexicon_element.html#a401b942dc784d0f5c9ff8091cbcdefe8" title=" " alt="" coords="1056,304,1242,347"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="936,270,1047,300,1042,300,935,276"/>
+<area shape="rect" id="Node000019" href="$class_tangible_body_part.html#adb5f699d5b8ba8e366f6edcd5cbd70cb" title="Sets the selected outline to the object." alt="" coords="796,43,960,70"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="733,67,783,64,778,66,735,72"/>
+<area shape="poly" id="edge20_Node000019_Node000011" title=" " alt="" coords="960,57,1035,62,1030,63,961,62"/>
+<area shape="rect" id="Node000021" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="794,439,962,466"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="412,346,538,383,663,411,781,436,776,436,662,416,536,388,412,352"/>
+<area shape="rect" id="Node000022" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="542,472,729,515"/>
+<area shape="poly" id="edge23_Node000020_Node000022" title=" " alt="" coords="394,346,587,463,582,465,392,351"/>
+<area shape="rect" id="Node000023" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="542,230,729,272"/>
+<area shape="poly" id="edge26_Node000020_Node000023" title=" " alt="" coords="413,319,553,277,548,279,415,324"/>
+<area shape="rect" id="Node000024" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="787,296,969,323"/>
+<area shape="poly" id="edge30_Node000020_Node000024" title=" " alt="" coords="489,326,774,314,769,316,490,332"/>
+<area shape="rect" id="Node000025" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="568,347,702,374"/>
+<area shape="poly" id="edge29_Node000020_Node000025" title=" " alt="" coords="489,344,556,352,551,353,490,349"/>
+<area shape="poly" id="edge24_Node000022_Node000021" title=" " alt="" coords="729,475,778,469,783,469,730,480"/>
+<area shape="poly" id="edge25_Node000022_Node000022" title=" " alt="" coords="590,470,587,462,595,453,611,448,635,446,661,448,678,457,673,456,660,453,635,451,612,453,598,458,593,464,594,473"/>
+<area shape="poly" id="edge27_Node000023_Node000023" title=" " alt="" coords="589,228,587,220,595,211,611,205,635,203,661,205,678,214,673,214,660,211,635,208,612,210,598,215,593,221,594,230"/>
+<area shape="poly" id="edge28_Node000023_Node000024" title=" " alt="" coords="726,270,807,292,802,292,726,276"/>
+</map>

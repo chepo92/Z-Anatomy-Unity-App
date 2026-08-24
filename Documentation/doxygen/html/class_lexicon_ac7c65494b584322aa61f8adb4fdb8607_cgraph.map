@@ -1,0 +1,7 @@
+<map id="Lexicon.UpdateSelected" name="Lexicon.UpdateSelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,169,73"/>
+<area shape="rect" id="Node000002" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="217,5,403,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,45,204,42,199,44,170,50"/>
+<area shape="rect" id="Node000003" href="$class_lexicon_element.html#a401b942dc784d0f5c9ff8091cbcdefe8" title=" " alt="" coords="217,72,403,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,70,204,77,198,77,169,75"/>
+</map>

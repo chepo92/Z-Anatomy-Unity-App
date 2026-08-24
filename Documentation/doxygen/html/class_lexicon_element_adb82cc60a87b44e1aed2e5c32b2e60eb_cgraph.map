@@ -1,0 +1,11 @@
+<map id="LexiconElement.Open" name="LexiconElement.Open">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,155,57"/>
+<area shape="rect" id="Node000002" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="203,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,32,189,30,184,32,156,38"/>
+<area shape="rect" id="Node000003" href="$class_lexicon.html#a9c2406c264466c78dab2c14de27d98f4" title=" " alt="" coords="211,56,372,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,50,198,57,193,58,155,56"/>
+<area shape="rect" id="Node000004" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="438,27,606,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="372,56,425,52,420,53,373,62"/>
+<area shape="rect" id="Node000005" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="429,77,615,120"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="373,77,416,85,411,85,373,82"/>
+</map>

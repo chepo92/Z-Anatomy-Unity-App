@@ -1,0 +1,7 @@
+<map id="CollectionElement" name="CollectionElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,104,203,131"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,42,132,103,127,104,80,47"/>
+<area shape="rect" id="Node000003" href="$class_collection_element_data.html" title=" " alt="" coords="141,5,296,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,44,151,106,148,102,196,45"/>
+</map>

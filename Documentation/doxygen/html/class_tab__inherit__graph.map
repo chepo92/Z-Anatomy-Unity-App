@@ -1,0 +1,11 @@
+<map id="Tab" name="Tab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,80,314,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,34,273,83,269,87,115,40"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,5,283,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,40,282,80,276,79,236,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="307,5,442,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,42,308,82,306,77,346,43"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="465,5,606,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="482,37,315,88,314,83,476,37"/>
+</map>

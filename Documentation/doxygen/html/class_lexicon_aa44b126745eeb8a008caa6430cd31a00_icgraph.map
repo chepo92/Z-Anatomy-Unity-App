@@ -1,0 +1,17 @@
+<map id="Lexicon.ClearAllElements" name="Lexicon.ClearAllElements">
+<area shape="rect" id="Node000001" title=" " alt="" coords="692,97,864,124"/>
+<area shape="rect" id="Node000002" href="$class_lexicon.html#a8a07820638e1a10ff2ee8e3b06c0d21b" title=" " alt="" coords="466,5,639,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="724,91,643,62,614,51,614,46,645,58,729,91"/>
+<area shape="rect" id="Node000003" href="$class_lexicon.html#a5ddad29106f31ea128bfcb331b4b6165" title=" " alt="" coords="492,72,613,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="674,99,613,95,613,89,680,99"/>
+<area shape="rect" id="Node000007" href="$class_lexicon.html#a69f4ea1bb9cb051f9b71431a889bacf4" title=" " alt="" coords="469,123,636,149"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="674,122,637,129,636,124,679,122"/>
+<area shape="rect" id="Node000008" href="$class_search_engine.html#abf7e89f48b81b47afea4ce3865970de5" title=" " alt="" coords="461,173,644,216"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="729,129,645,164,614,175,613,170,643,159,724,131"/>
+<area shape="rect" id="Node000004" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="259,47,413,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,77,414,72,413,66,480,76"/>
+<area shape="rect" id="Node000005" href="$class_settings.html#a3c6ed152e34ea07ee6d5a8da2adcfba6" title=" " alt="" coords="261,97,410,124"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="474,95,411,105,411,99,480,94"/>
+<area shape="rect" id="Node000006" href="$class_names_management.html#a89db0804cba014432a680da157a2d414" title=" " alt="" coords="5,89,211,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="243,111,212,113,211,108,248,110"/>
+</map>

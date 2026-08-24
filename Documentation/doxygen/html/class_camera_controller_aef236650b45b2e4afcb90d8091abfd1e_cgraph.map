@@ -1,0 +1,5 @@
+<map id="CameraController.ResetCamera" name="CameraController.ResetCamera">
+<area shape="rect" id="Node000001" title="Resets the camera to its default position and parameters." alt="" coords="5,5,214,32"/>
+<area shape="rect" id="Node000002" href="$class_camera_controller.html#ae8f0cded58d5553031b76bcf41fd2d4d" title="Sets the target game object and updates the pivot to its position." alt="" coords="262,5,445,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,16,248,19,243,19,214,21"/>
+</map>

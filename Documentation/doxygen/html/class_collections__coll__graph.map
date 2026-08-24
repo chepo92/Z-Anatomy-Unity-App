@@ -1,0 +1,9 @@
+<map id="Collections" name="Collections">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,180,110,207"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="125,183,136,193,128,203,110,205,109,200,125,198,131,193,124,188"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,47,69,180,63,180,59,48"/>
+<area shape="rect" id="Node000003" href="$class_create_collection_panel.html" title=" " alt="" coords="83,81,234,108"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="90,39,145,80,140,82,89,44"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="139,120,80,182,76,178,133,119"/>
+</map>

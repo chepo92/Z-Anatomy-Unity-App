@@ -1,0 +1,10 @@
+<map id="TranslateObject.UpdateSelected" name="TranslateObject.UpdateSelected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,216,57"/>
+<area shape="rect" id="Node000002" href="$class_translate_object.html#a1b64d9653c33cb12d2b23868db7cb4d2" title=" " alt="" coords="513,5,674,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,36,498,21,497,26,216,41"/>
+<area shape="rect" id="Node000003" href="$class_translate_object.html#af89d1ef3759183205d219b2794285c5c" title=" " alt="" coords="264,52,439,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,54,251,61,245,61,216,60"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="439,51,514,36,519,36,440,56"/>
+<area shape="rect" id="Node000004" href="$class_tangible_body_part.html#a56fefb3df25bb77c2f142b9c24bf08c8" title="Updates the bounds of the mesh collider to match the bounds of the mesh. This function is useful when..." alt="" coords="487,60,700,87"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="439,71,474,73,469,73,440,76"/>
+</map>

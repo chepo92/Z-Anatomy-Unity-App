@@ -1,0 +1,12 @@
+<map id="KeyColors.SetInsertionsKeyColor" name="KeyColors.SetInsertionsKeyColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="743,39,930,81"/>
+<area shape="rect" id="Node000002" href="$class_key_colors.html#a6a8ef1883423382e9aa146b1300d0e70" title=" " alt="" coords="268,47,431,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="725,61,431,63,431,57,730,59"/>
+<area shape="rect" id="Node000005" href="$class_key_colors.html#a939f0345bd107f3fc6f7270bce9cf95e" title=" " alt="" coords="479,72,695,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="731,71,696,77,696,72,725,71"/>
+<area shape="rect" id="Node000003" href="$class_contextual_menu.html#a0c6807e8337e2dd575e6c5bc89819c9a" title=" " alt="" coords="8,5,217,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,47,217,44,217,39,255,46"/>
+<area shape="rect" id="Node000004" href="$class_contextual_menu.html#a1a9ce3d026ef312fce3f24fb390d6a42" title=" " alt="" coords="5,72,220,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="250,74,221,81,220,76,255,73"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="461,72,431,71,431,66,466,72"/>
+</map>

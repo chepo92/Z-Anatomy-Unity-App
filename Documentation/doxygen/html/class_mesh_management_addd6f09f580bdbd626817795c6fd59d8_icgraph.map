@@ -1,0 +1,11 @@
+<map id="MeshManagement.IsolationClick" name="MeshManagement.IsolationClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="265,73,446,116"/>
+<area shape="rect" id="Node000002" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="13,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,68,216,47,175,35,175,30,217,41,288,67"/>
+<area shape="rect" id="Node000003" href="$class_action_control.html#a52d0b2d5d2fe908e70cdfdc7061579c6" title=" " alt="" coords="39,56,183,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,85,183,79,183,74,251,83"/>
+<area shape="rect" id="Node000004" href="$class_contextual_menu.html#a6153bad2bb7f98bc1367544870f1d3d1" title=" " alt="" coords="16,107,206,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,106,207,113,206,108,252,105"/>
+<area shape="rect" id="Node000005" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="5,157,217,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="288,121,217,148,176,159,174,154,216,143,283,122"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MeshManagement.DisableInsertions" name="MeshManagement.DisableInsertions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="505,31,738,57"/>
+<area shape="rect" id="Node000002" href="$class_lexicon_element.html#ac73d01f442fa8caeb9404a7dd8b86f5b" title=" " alt="" coords="264,5,457,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="487,31,458,31,458,25,492,31"/>
+<area shape="rect" id="Node000004" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="283,56,438,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="492,57,438,65,438,59,487,57"/>
+<area shape="rect" id="Node000003" href="$class_lexicon_element.html#a1f6f700e15c792206e70e93365decbf0" title=" " alt="" coords="5,5,216,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,19,217,21,216,16,250,18"/>
+</map>

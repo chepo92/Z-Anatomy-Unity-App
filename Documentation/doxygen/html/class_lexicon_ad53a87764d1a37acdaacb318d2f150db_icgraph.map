@@ -1,0 +1,11 @@
+<map id="Lexicon.InstatiateOriginalRootChilds" name="Lexicon.InstatiateOriginalRootChilds">
+<area shape="rect" id="Node000001" title=" " alt="" coords="629,23,798,65"/>
+<area shape="rect" id="Node000002" href="$class_lexicon.html#a5ddad29106f31ea128bfcb331b4b6165" title=" " alt="" coords="461,31,581,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="611,44,582,47,582,41,617,44"/>
+<area shape="rect" id="Node000003" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="259,5,413,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,34,413,32,414,27,448,34"/>
+<area shape="rect" id="Node000004" href="$class_settings.html#a3c6ed152e34ea07ee6d5a8da2adcfba6" title=" " alt="" coords="261,56,410,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="448,54,411,62,411,56,443,55"/>
+<area shape="rect" id="Node000005" href="$class_names_management.html#a89db0804cba014432a680da157a2d414" title=" " alt="" coords="5,48,211,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="243,69,211,72,211,67,248,69"/>
+</map>

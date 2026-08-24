@@ -1,0 +1,17 @@
+<map id="Lexicon.UpdateTreeViewCheckboxes" name="Lexicon.UpdateTreeViewCheckboxes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,246,186"/>
+<area shape="rect" id="Node000002" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="536,28,704,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,158,159,127,195,89,240,51,293,23,326,12,362,6,433,4,500,10,559,23,554,24,499,15,432,9,362,11,328,18,295,28,243,56,198,93,163,131,139,161"/>
+<area shape="rect" id="Node000003" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="294,61,481,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,157,311,107,307,111,168,162"/>
+<area shape="rect" id="Node000004" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="294,152,481,194"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="246,171,281,172,275,174,247,176"/>
+<area shape="rect" id="Node000005" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="529,189,711,216"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="182,184,237,196,294,204,387,207,481,204,516,206,510,206,481,209,387,213,293,209,236,201,183,190"/>
+<area shape="rect" id="Node000006" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="321,269,454,296"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="155,184,295,248,331,264,326,263,293,253,154,189"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="481,63,529,57,523,59,482,68"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="343,60,341,51,349,42,364,36,387,34,412,37,429,45,423,46,411,42,387,40,365,42,352,46,347,52,348,62"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="343,150,341,142,349,133,364,127,387,125,412,128,429,136,423,136,411,133,387,130,365,132,352,137,347,143,348,152"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="482,182,516,189,511,189,482,188"/>
+</map>

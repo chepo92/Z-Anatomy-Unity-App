@@ -1,0 +1,10 @@
+<map id="Lexicon.CollapseChild" name="Lexicon.CollapseChild">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,157,61"/>
+<area shape="rect" id="Node000002" href="$class_lexicon_element.html#af87392997e4cc6b438d58ee3a47d9b26" title=" " alt="" coords="205,35,357,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,54,192,57,186,57,157,59"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="202,40,172,42,172,36,207,39"/>
+<area shape="rect" id="Node000003" href="$class_expand_collapse_u_i.html#a5eac2ec325241121a9d0280d54f245ba" title=" " alt="" coords="405,5,590,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,35,392,33,387,34,357,40"/>
+<area shape="rect" id="Node000004" href="$class_lexicon.html#a2c65f36c5f3b0156090938c9f54d6290" title=" " alt="" coords="410,56,586,99"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="357,56,397,63,391,63,357,61"/>
+</map>

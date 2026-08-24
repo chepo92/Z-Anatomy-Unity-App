@@ -1,0 +1,11 @@
+<map id="SplittedSlider.UpdateButtons" name="SplittedSlider.UpdateButtons">
+<area shape="rect" id="Node000001" title=" " alt="" coords="376,31,565,57"/>
+<area shape="rect" id="Node000002" href="$class_splitted_slider.html#aa866999bd1cf026db5484a3b61ba5d60" title=" " alt="" coords="188,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,31,320,29,319,24,363,31"/>
+<area shape="rect" id="Node000003" href="$class_splitted_slider.html#a65b8fc873b17098371d4d495e7aefe27" title=" " alt="" coords="179,56,328,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,57,329,63,328,58,364,56"/>
+<area shape="rect" id="Node000004" href="$class_splitted_slider.html#a5de7fc43a82e06b78b3143973e68738c" title=" " alt="" coords="5,31,131,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,58,131,55,131,50,166,56"/>
+<area shape="rect" id="Node000005" href="$class_splitted_slider.html#ae66049fb65c94733fd4c41c95cb98f0d" title=" " alt="" coords="5,81,131,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="160,82,131,89,131,83,166,81"/>
+</map>

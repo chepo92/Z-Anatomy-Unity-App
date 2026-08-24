@@ -1,0 +1,9 @@
+<map id="ActionControl.BrushSelectionClick" name="ActionControl.BrushSelectionClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,198,99"/>
+<area shape="rect" id="Node000002" href="$class_lasso_selection.html#a7351dae0907cce6f4107405b205bf80a" title=" " alt="" coords="278,5,424,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,53,278,35,273,37,196,58"/>
+<area shape="rect" id="Node000003" href="$class_toggle_change_color.html#a4a4032ca574a278e9b643737811abecf" title=" " alt="" coords="246,56,456,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,75,233,77,228,78,199,80"/>
+<area shape="rect" id="Node000004" href="$class_toggle_change_color.html#a5151f16be3bac74ac7ac5d02b7dff1f4" title=" " alt="" coords="248,123,454,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,97,257,118,252,119,184,102"/>
+</map>

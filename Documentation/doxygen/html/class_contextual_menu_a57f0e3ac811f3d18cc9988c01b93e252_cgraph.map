@@ -1,0 +1,27 @@
+<map id="ContextualMenu.HideInsertionsClick" name="ContextualMenu.HideInsertionsClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,210,135"/>
+<area shape="rect" id="Node000002" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="284,15,472,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,89,257,60,315,44,310,48,258,65,173,94"/>
+<area shape="rect" id="Node000004" href="$class_delete_command.html#a2c39c17d14dba6342bf148af28e6f727" title=" " alt="" coords="267,75,488,101"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,101,254,98,249,101,211,106"/>
+<area shape="rect" id="Node000005" href="$class_body_part_visibility.html#abf11447fcbb1d9a49f0a67feb5fd1df4" title="Hides the insertions for the current object." alt="" coords="272,125,484,152"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,120,259,126,254,129,211,125"/>
+<area shape="rect" id="Node000006" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="258,193,498,220"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="172,133,325,186,320,189,171,138"/>
+<area shape="rect" id="Node000003" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="570,5,709,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,22,557,21,552,23,473,27"/>
+<area shape="rect" id="Node000007" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="788,97,957,124"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="439,190,469,178,496,162,511,145,518,126,527,108,545,92,579,78,615,70,652,66,689,66,760,75,821,92,815,93,759,81,689,72,652,71,616,75,581,83,547,97,531,111,523,128,516,147,500,166,471,183,441,195"/>
+<area shape="rect" id="Node000008" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="546,131,733,173"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="445,190,533,174,528,176,446,195"/>
+<area shape="rect" id="Node000009" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="546,221,733,264"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="480,218,533,227,528,228,480,223"/>
+<area shape="rect" id="Node000010" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="781,259,964,285"/>
+<area shape="poly" id="edge14_Node000006_Node000010" title=" " alt="" coords="404,218,468,248,507,263,547,273,602,281,659,285,768,284,763,285,659,290,602,287,545,279,505,268,466,253,403,223"/>
+<area shape="rect" id="Node000011" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="573,339,706,365"/>
+<area shape="poly" id="edge13_Node000006_Node000011" title=" " alt="" coords="397,218,462,266,547,318,579,333,573,333,545,322,459,270,396,223"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="733,133,781,127,776,128,735,138"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="596,129,594,121,601,112,617,106,640,104,665,106,681,115,676,115,663,112,640,109,618,111,604,116,599,122,600,131"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="596,219,594,211,601,202,617,197,640,195,665,197,681,206,676,206,663,202,640,200,618,202,604,207,599,213,600,222"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="734,252,769,259,763,259,734,257"/>
+</map>

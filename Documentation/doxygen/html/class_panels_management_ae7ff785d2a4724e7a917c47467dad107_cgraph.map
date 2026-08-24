@@ -1,0 +1,41 @@
+<map id="PanelsManagement.ShowSettings" name="PanelsManagement.ShowSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,136,227,163"/>
+<area shape="rect" id="Node000002" href="$class_expand_collapse_u_i.html#a5eac2ec325241121a9d0280d54f245ba" title=" " alt="" coords="578,56,763,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,133,196,100,234,83,274,71,348,58,424,52,497,52,565,57,560,59,497,58,424,58,349,63,275,76,236,88,199,105,140,138"/>
+<area shape="rect" id="Node000003" href="$class_tab.html#a7b051e1c07290533091ab5ccd4af05b9" title=" " alt="" coords="622,157,720,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,161,275,172,365,177,455,177,609,174,603,175,455,183,365,182,274,177,189,166"/>
+<area shape="rect" id="Node000009" href="$class_expand_collapse_u_i.html#ad00bba22329a48e02728897ee83d9521" title=" " alt="" coords="286,288,502,331"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="132,160,193,212,233,241,276,267,305,282,300,282,273,272,230,245,190,216,131,166"/>
+<area shape="rect" id="Node000010" href="$class_tab.html#a49f3c2901657c890e60ffc7b21f47159" title=" " alt="" coords="629,5,712,32"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="131,133,190,87,230,62,274,43,365,21,458,10,544,8,616,13,611,14,544,14,458,16,366,26,276,48,233,67,193,91,134,137"/>
+<area shape="rect" id="Node000011" href="$class_panels_management.html#a8b0619f1c23d8087a2834550f8e2e13b" title=" " alt="" coords="275,85,514,112"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="192,133,304,114,300,117,194,138"/>
+<area shape="rect" id="Node000013" href="$class_panels_management.html#aa6be0e4c79e61aa610a5d01cfaa4902f" title=" " alt="" coords="562,208,779,251"/>
+<area shape="poly" id="edge24_Node000001_Node000013" title=" " alt="" coords="171,161,275,183,415,203,549,219,544,220,415,208,274,188,171,166"/>
+<area shape="rect" id="Node000015" href="$class_panels_management.html#ae6f0167c3b31550e560e63dd63b9b008" title=" " alt="" coords="285,136,504,163"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="226,147,272,148,267,150,228,152"/>
+<area shape="rect" id="Node000004" href="$class_tab_group.html#aa7baa8705ef148c32094d3978857ddeb" title=" " alt="" coords="856,81,1010,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="720,158,779,143,876,114,881,113,780,148,721,163"/>
+<area shape="rect" id="Node000005" href="$class_tab.html#a6815ce96a06f16ab931acc4d750534b7" title=" " alt="" coords="1091,5,1248,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="975,78,1086,41,1106,38,1111,36,1087,47,976,83"/>
+<area shape="rect" id="Node000006" href="$class_tab.html#ab69008119ce7f6016616c779871106e0" title=" " alt="" coords="1087,56,1252,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1010,84,1074,79,1069,80,1011,89"/>
+<area shape="rect" id="Node000007" href="$class_tab.html#a861d685baa9f13b4821aa450a1bd1c9a" title=" " alt="" coords="1106,107,1233,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1010,100,1093,111,1087,112,1010,106"/>
+<area shape="rect" id="Node000008" href="$class_tab.html#a7bb19f4492e15e6c78efd2a313d77d0e" title=" " alt="" coords="1101,157,1238,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="976,106,1087,143,1111,153,1106,152,1086,148,975,111"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="713,25,780,41,881,76,876,76,779,47,713,30"/>
+<area shape="poly" id="edge12_Node000011_Node000002" title=" " alt="" coords="514,83,565,80,560,82,515,89"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="472,110,515,121,563,143,609,158,604,158,561,148,513,127,472,115"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="434,82,561,41,616,30,611,32,563,47,436,87"/>
+<area shape="rect" id="Node000012" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="582,107,760,133"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="514,105,569,111,563,112,515,111"/>
+<area shape="poly" id="edge16_Node000011_Node000013" title=" " alt="" coords="492,110,516,122,533,140,541,158,548,177,564,194,570,200,565,199,560,198,544,179,536,160,528,143,512,126,492,115"/>
+<area shape="rect" id="Node000014" href="$class_camera_controller.html#ad5e87600d30aa52a1228e5c4e6085266" title="Initiates a coroutine to move the camera horizontally to its new position over a specified time perio..." alt="" coords="827,216,1039,243"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="780,227,815,229,809,230,780,232"/>
+<area shape="poly" id="edge19_Node000015_Node000002" title=" " alt="" coords="477,133,513,122,537,107,561,92,584,87,579,89,563,97,539,112,515,126,479,138"/>
+<area shape="poly" id="edge20_Node000015_Node000003" title=" " alt="" coords="504,155,609,165,603,166,504,160"/>
+<area shape="poly" id="edge22_Node000015_Node000010" title=" " alt="" coords="492,133,512,122,529,103,536,83,543,62,560,42,586,28,616,22,611,24,588,33,564,46,547,65,541,85,533,106,516,126,495,138"/>
+<area shape="poly" id="edge21_Node000015_Node000012" title=" " alt="" coords="503,135,568,130,563,132,504,140"/>
+<area shape="poly" id="edge23_Node000015_Node000013" title=" " alt="" coords="444,161,583,203,577,204,443,166"/>
+</map>

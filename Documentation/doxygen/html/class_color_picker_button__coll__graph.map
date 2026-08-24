@@ -1,0 +1,8 @@
+<map id="ColorPickerButton" name="ColorPickerButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,133,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="8,5,119,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,47,71,180,66,180,62,48"/>
+<area shape="rect" id="Node000003" href="$class_create_collection_panel.html" title=" " alt="" coords="85,81,237,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="93,39,147,80,142,82,92,44"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,120,83,182,79,178,136,119"/>
+</map>

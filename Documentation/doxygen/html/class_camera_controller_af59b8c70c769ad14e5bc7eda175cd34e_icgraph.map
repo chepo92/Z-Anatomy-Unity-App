@@ -1,0 +1,9 @@
+<map id="CameraController.CanRotate" name="CameraController.CanRotate">
+<area shape="rect" id="Node000001" title="If the camera is not in a routine." alt="" coords="508,67,698,93"/>
+<area shape="rect" id="Node000002" href="$class_gizmo_behaviour.html#a0a2c01ceb887601b474da9e2810fd9b1" title=" " alt="" coords="273,29,460,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,66,460,65,461,60,495,66"/>
+<area shape="rect" id="Node000003" href="$class_gizmo_behaviour.html#ab2d383b2ea19e7d390ccdfe70b412efc" title=" " alt="" coords="5,67,225,93"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="490,83,460,87,273,87,225,86,225,80,273,81,460,81,495,83"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="403,14,390,10,366,8,344,10,330,15,325,21,326,30,322,27,320,19,327,10,343,5,366,3,392,5,408,14"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="255,64,225,70,225,65,260,63"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="ActionControl.Redo" name="ActionControl.Redo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,141,186"/>
+<area shape="rect" id="Node000002" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="189,160,429,186"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,171,176,172,171,174,142,176"/>
+<area shape="rect" id="Node000003" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="719,28,888,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,157,342,127,378,89,423,51,476,23,510,12,545,6,616,4,683,10,743,23,737,24,682,15,616,9,546,11,511,18,478,28,426,56,382,93,346,131,322,161"/>
+<area shape="rect" id="Node000004" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="477,61,664,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="349,157,495,108,490,110,351,162"/>
+<area shape="rect" id="Node000005" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="477,152,664,194"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="429,171,464,173,459,174,430,176"/>
+<area shape="rect" id="Node000006" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="712,189,895,216"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="366,184,420,196,477,204,571,207,664,204,699,206,694,206,664,209,571,213,477,209,419,201,366,190"/>
+<area shape="rect" id="Node000007" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="504,269,637,296"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="338,184,478,248,515,264,509,263,476,253,337,189"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="664,63,712,57,707,59,666,68"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="527,59,525,51,532,42,548,36,571,34,596,37,612,46,607,46,594,42,571,40,549,42,535,46,530,52,531,62"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="527,150,525,142,532,133,548,127,571,125,596,128,612,136,607,136,594,133,571,130,549,132,535,137,530,143,531,153"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="665,182,700,189,694,189,665,188"/>
+</map>

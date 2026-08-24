@@ -1,0 +1,30 @@
+<map id="ReadDB.GetDescription" name="ReadDB.GetDescription">
+<area shape="rect" id="Node000001" title=" " alt="" coords="812,187,975,213"/>
+<area shape="rect" id="Node000002" href="$class_name_and_description.html#a999397d5520c935a76d1ad93fe05d956" title="Sets the description of the game object by fetching it from the database." alt="" coords="529,187,764,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="794,200,765,203,764,197,799,200"/>
+<area shape="rect" id="Node000003" href="$class_lexicon_element.html#ade6110168b807cc5da5476f7aa1cacff" title=" " alt="" coords="287,5,457,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="622,175,562,115,523,82,480,53,438,35,437,30,482,48,526,77,566,111,627,175"/>
+<area shape="rect" id="Node000004" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="12,19,208,45"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="615,177,555,136,519,115,480,97,430,83,361,70,209,47,208,41,362,64,432,78,482,92,521,110,558,132,620,177"/>
+<area shape="rect" id="Node000005" href="$class_hierarchy_button.html#a0906c341355a0461c23265da273e6e80" title=" " alt="" coords="289,107,455,133"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="590,182,480,148,437,137,436,131,482,143,595,181"/>
+<area shape="rect" id="Node000007" href="$class_settings.html#a3c6ed152e34ea07ee6d5a8da2adcfba6" title=" " alt="" coords="297,157,446,184"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="511,186,447,181,447,176,516,185"/>
+<area shape="rect" id="Node000009" href="$class_selected_objects_management.html#a423bd57503484c3f543e088d06ec6048" title="Shows the body part information of a given game object. Sets the description of the object using its ..." alt="" coords="274,208,470,251"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="511,215,471,221,470,216,516,213"/>
+<area shape="rect" id="Node000012" href="$class_bonus_collections.html#ad0ba7fe4c7574fdb4970bf29eb0bca76" title=" " alt="" coords="263,275,481,301"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="602,219,482,265,439,277,438,272,480,260,596,220"/>
+<area shape="rect" id="Node000013" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="266,325,478,352"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="621,222,559,272,522,295,482,316,449,327,448,322,480,311,519,291,556,267,616,225"/>
+<area shape="rect" id="Node000014" href="$class_selected_objects_management.html#a91bae1160eb4529889e6477e3ea029ba" title=" " alt="" coords="274,376,470,419"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="629,224,568,296,528,334,482,366,459,378,457,373,480,362,524,330,565,292,624,227"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,25,210,29,207,25,274,22"/>
+<area shape="rect" id="Node000006" href="$class_hierarchy_button.html#a1120572edd81dea744858740db7b707f" title=" " alt="" coords="21,83,199,125"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="271,115,200,112,198,107,275,113"/>
+<area shape="rect" id="Node000008" href="$class_names_management.html#a89db0804cba014432a680da157a2d414" title=" " alt="" coords="7,149,213,192"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="279,172,214,173,212,168,284,169"/>
+<area shape="rect" id="Node000010" href="$class_select_command.html#a4adfba5781cb1795ec4cdb9cd5a03c3a" title=" " alt="" coords="25,216,195,243"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="256,231,196,232,195,227,260,228"/>
+<area shape="rect" id="Node000011" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="5,267,215,293"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="256,253,184,269,182,264,261,250"/>
+</map>

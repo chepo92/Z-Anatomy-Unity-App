@@ -1,0 +1,26 @@
+<map id="Lexicon.InstantiateSearchResult" name="Lexicon.InstantiateSearchResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,165,178,207"/>
+<area shape="rect" id="Node000002" href="$class_lexicon.html#a45052901bb87c525c13b598555fe80b4" title=" " alt="" coords="241,122,382,149"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,164,238,151,234,154,179,169"/>
+<area shape="rect" id="Node000004" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="445,173,685,199"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="178,183,431,184,428,188,178,189"/>
+<area shape="rect" id="Node000010" href="$class_lexicon.html#aa44b126745eeb8a008caa6430cd31a00" title=" " alt="" coords="226,223,397,250"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="178,203,239,219,233,220,178,209"/>
+<area shape="rect" id="Node000003" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="472,106,658,149"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,131,459,130,454,132,383,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="382,147,483,169,477,170,382,152"/>
+<area shape="rect" id="Node000005" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="976,41,1144,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="667,170,684,159,696,145,702,130,705,97,709,65,717,50,732,36,765,18,802,8,839,3,878,4,950,15,1013,35,1007,35,949,20,877,9,840,9,803,13,767,23,735,40,721,53,714,67,711,98,707,131,700,147,687,163,669,175"/>
+<area shape="rect" id="Node000006" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="733,74,921,117"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="651,170,684,158,708,143,732,126,743,124,748,122,735,131,711,148,686,163,652,175"/>
+<area shape="rect" id="Node000007" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="733,165,921,207"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="686,183,720,186,715,186,686,189"/>
+<area shape="rect" id="Node000008" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="969,202,1151,229"/>
+<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="622,197,676,209,734,217,827,220,921,217,955,219,950,219,921,222,827,226,733,222,675,214,622,203"/>
+<area shape="rect" id="Node000009" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="760,282,894,309"/>
+<area shape="poly" id="edge11_Node000004_Node000009" title=" " alt="" coords="594,197,734,261,771,277,766,276,732,266,593,202"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="921,76,968,70,963,71,922,81"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="783,72,781,64,788,55,804,49,827,47,852,50,868,59,863,58,851,55,827,53,805,55,792,59,786,65,788,75"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="783,163,781,155,788,146,804,140,827,138,852,141,868,149,863,149,851,146,827,143,805,145,792,150,786,156,788,166"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="921,195,956,202,951,202,921,201"/>
+</map>

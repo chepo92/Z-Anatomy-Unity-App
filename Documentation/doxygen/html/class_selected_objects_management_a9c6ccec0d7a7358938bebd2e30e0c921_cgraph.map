@@ -1,0 +1,13 @@
+<map id="SelectedObjectsManagement.CheckLabelsVisibility" name="SelectedObjectsManagement.CheckLabelsVisibility">
+<area shape="rect" id="Node000001" title="Checks the visibility of labels for all the active objects, and hides them if there is more than one ..." alt="" coords="5,35,202,77"/>
+<area shape="rect" id="Node000002" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="250,5,446,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,42,237,40,231,41,203,47"/>
+<area shape="rect" id="Node000003" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="252,72,444,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,65,238,72,233,72,202,70"/>
+<area shape="rect" id="Node000004" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="511,47,698,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="444,73,498,70,493,71,445,78"/>
+<area shape="rect" id="Node000006" href="$class_delete_command.html#a2c39c17d14dba6342bf148af28e6f727" title=" " alt="" coords="494,97,715,124"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="445,92,481,98,476,98,444,98"/>
+<area shape="rect" id="Node000005" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="763,47,902,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="699,57,751,60,745,60,699,63"/>
+</map>

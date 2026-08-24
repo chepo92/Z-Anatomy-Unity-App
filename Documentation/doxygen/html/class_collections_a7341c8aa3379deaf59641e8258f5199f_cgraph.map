@@ -1,0 +1,9 @@
+<map id="Collections.DeleteCollectionClick" name="Collections.DeleteCollectionClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,192,65"/>
+<area shape="rect" id="Node000002" href="$class_collections.html#ac4517f97c7f2d71350e37e203736e11d" title=" " alt="" coords="251,5,402,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,31,239,28,233,29,192,36"/>
+<area shape="rect" id="Node000003" href="$class_pop_up_management.html#ad1b3d472d4965803adf83dab71dc147d" title=" " alt="" coords="240,56,413,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,52,227,58,221,58,192,57"/>
+<area shape="rect" id="Node000004" href="$class_pop_up_message.html#af288011e9d84a05ffb2514ffbfbac392" title=" " alt="" coords="461,56,612,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="413,67,448,69,443,69,413,72"/>
+</map>

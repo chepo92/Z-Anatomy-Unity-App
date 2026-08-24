@@ -1,0 +1,5 @@
+<map id="SelectedObjectsManagement.DeleteList" name="SelectedObjectsManagement.DeleteList">
+<area shape="rect" id="Node000001" title="Deletes a list of GameObjects from the scene, setting their visibility to false and removing them fro..." alt="" coords="225,5,421,48"/>
+<area shape="rect" id="Node000002" href="$class_delete_command.html#a10f4d4a22c829b3c2114ef7a4986550d" title=" " alt="" coords="5,13,177,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,27,177,29,177,24,212,26"/>
+</map>

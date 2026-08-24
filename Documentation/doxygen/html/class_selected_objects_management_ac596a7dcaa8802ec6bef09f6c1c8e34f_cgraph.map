@@ -1,0 +1,32 @@
+<map id="SelectedObjectsManagement.DeselectAllChildren" name="SelectedObjectsManagement.DeselectAllChildren">
+<area shape="rect" id="Node000001" title="Recursively deselects all child objects of a given parent object." alt="" coords="5,115,202,157"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="57,114,55,105,63,96,79,90,104,88,130,90,147,98,142,100,128,96,103,93,80,95,66,100,61,106,63,114"/>
+<area shape="rect" id="Node000002" href="$class_selected_objects_management.html#a494c9715c282ac39a6abccad66ce424b" title="Deselects a GameObject from the currently selected objects." alt="" coords="250,115,446,157"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="201,133,236,135,232,137,203,139"/>
+<area shape="rect" id="Node000003" href="$class_hierarchy_bar.html#ad72351240ca9b401b5f967796fcb0cc1" title=" " alt="" coords="524,43,657,69"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="402,112,493,79,521,73,516,75,495,84,404,117"/>
+<area shape="rect" id="Node000004" href="$class_tangible_body_part.html#addb5812e6152141b29f47d4881f89441" title="Deselects the object by changing its selection state and hiding its labels and notes." alt="" coords="501,93,680,120"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="446,122,488,119,483,120,447,127"/>
+<area shape="rect" id="Node000010" href="$class_names_management.html#a187bea184db6fba1986089b5f2740806" title=" " alt="" coords="494,148,687,175"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="446,144,481,149,476,150,447,149"/>
+<area shape="rect" id="Node000013" href="$class_lexicon.html#ac7c65494b584322aa61f8adb4fdb8607" title=" " alt="" coords="509,223,672,249"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="402,155,545,216,539,217,401,161"/>
+<area shape="rect" id="Node000005" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="765,31,958,57"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="644,90,735,67,776,60,771,62,736,72,645,95"/>
+<area shape="rect" id="Node000009" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="761,81,962,124"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="681,103,748,104,743,105,681,108"/>
+<area shape="rect" id="Node000006" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="1053,5,1240,32"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="957,33,1040,28,1034,29,958,38"/>
+<area shape="rect" id="Node000008" href="$class_delete_command.html#a2c39c17d14dba6342bf148af28e6f727" title=" " alt="" coords="1036,56,1257,83"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="958,50,1023,58,1017,58,958,55"/>
+<area shape="rect" id="Node000007" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="1305,5,1443,32"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1240,16,1292,18,1287,19,1241,21"/>
+<area shape="rect" id="Node000011" href="$class_names_management.html#aefcfe541cea7196d510da01b57769586" title=" " alt="" coords="735,148,988,191"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="687,162,722,165,717,165,688,167"/>
+<area shape="rect" id="Node000012" href="$class_highlight_text.html#ad3eb806f90582a81e06d0399850b79d0" title=" " alt="" coords="1068,156,1224,183"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="988,167,1056,169,1050,170,988,172"/>
+<area shape="rect" id="Node000014" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="768,215,955,257"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="673,233,755,236,750,236,673,239"/>
+<area shape="rect" id="Node000015" href="$class_lexicon_element.html#a401b942dc784d0f5c9ff8091cbcdefe8" title=" " alt="" coords="768,281,955,324"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="649,247,760,277,755,277,648,253"/>
+</map>

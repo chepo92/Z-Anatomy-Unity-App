@@ -1,0 +1,22 @@
+<map id="CrossSections.XClick" name="CrossSections.XClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="763,205,914,232"/>
+<area shape="rect" id="Node000002" href="$class_cross_planes_gizmo.html#aa36a5f21c411405b986110d4199cb74a" title=" " alt="" coords="524,205,715,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="745,219,716,221,715,216,750,218"/>
+<area shape="rect" id="Node000003" href="$class_cross_planes_gizmo.html#a94b961d0269fe0c611bcf904228cd5b9" title=" " alt="" coords="274,5,475,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="601,191,581,159,552,119,516,80,475,46,453,35,452,30,477,42,520,76,556,116,585,156,606,192"/>
+<area shape="rect" id="Node000004" href="$class_cube_text.html#a88636f4b123b3acb4897bfbf02fb3d6e" title=" " alt="" coords="290,56,459,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="594,193,543,145,510,119,475,97,448,86,448,81,477,92,513,115,546,141,599,194"/>
+<area shape="rect" id="Node000005" href="$class_cross_planes_gizmo.html#a411e610493135abbf62a01fa543e6c61" title=" " alt="" coords="273,107,476,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="569,199,475,164,443,153,443,147,477,159,574,199"/>
+<area shape="rect" id="Node000006" href="$class_gizmo_behaviour.html#a0a2c01ceb887601b474da9e2810fd9b1" title=" " alt="" coords="281,197,468,240"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="506,219,469,221,468,216,511,218"/>
+<area shape="rect" id="Node000008" href="$class_cross_planes_gizmo.html#ace50ea1c3f2f85b2829314344247bea0" title=" " alt="" coords="286,264,463,291"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="544,237,434,266,433,261,549,235"/>
+<area shape="rect" id="Node000009" href="$class_cross_planes_gizmo.html#a99f69ffdc4795ac17b496d9987d38889" title=" " alt="" coords="286,315,463,341"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="589,240,537,275,477,305,443,317,442,311,475,300,535,270,584,242"/>
+<area shape="rect" id="Node000010" href="$class_cross_planes_gizmo.html#a0c27776d629809358d0e8e356822f31a" title=" " alt="" coords="286,365,462,392"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="601,243,549,302,515,331,477,356,450,367,448,362,475,351,511,327,545,298,596,245"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="413,182,399,178,374,176,351,178,337,183,331,189,333,198,328,196,326,187,334,178,350,173,374,171,401,173,418,182"/>
+<area shape="rect" id="Node000007" href="$class_gizmo_behaviour.html#ab2d383b2ea19e7d390ccdfe70b412efc" title=" " alt="" coords="5,205,225,232"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="263,220,226,221,224,216,267,218"/>
+</map>

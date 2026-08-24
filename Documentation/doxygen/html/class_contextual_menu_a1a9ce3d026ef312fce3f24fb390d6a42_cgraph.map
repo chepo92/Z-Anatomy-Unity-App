@@ -1,0 +1,26 @@
+<map id="ContextualMenu.ShowKeyColorsClick" name="ContextualMenu.ShowKeyColorsClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,216,220,259"/>
+<area shape="rect" id="Node000002" href="$class_key_colors.html#a6a8ef1883423382e9aa146b1300d0e70" title=" " alt="" coords="268,224,431,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,235,254,236,250,238,221,240"/>
+<area shape="rect" id="Node000003" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="494,5,681,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,222,369,186,395,137,431,85,453,62,477,42,489,38,485,41,481,46,457,66,435,89,399,140,374,188,358,225"/>
+<area shape="rect" id="Node000005" href="$class_key_color_command.html#ac27e5f8ba807cc42273f40085f629e20" title=" " alt="" coords="490,56,684,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="359,221,406,167,440,136,478,108,490,104,486,107,480,113,443,140,410,171,363,225"/>
+<area shape="rect" id="Node000006" href="$class_key_colors.html#a26fae13a491cff20911d4972ea99f9cf" title=" " alt="" coords="485,123,689,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="372,221,420,194,478,166,520,153,515,155,480,170,422,198,375,226"/>
+<area shape="rect" id="Node000007" href="$class_key_colors.html#ac30b056a03fca53fff6570aeeb0ead78" title=" " alt="" coords="743,216,930,259"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="408,221,479,209,587,203,696,209,731,216,725,216,695,215,587,208,479,215,409,226"/>
+<area shape="rect" id="Node000008" href="$class_key_colors.html#aa803de58c68868152a57a6bad55ccae9" title=" " alt="" coords="480,224,694,251"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="431,235,467,237,462,238,432,240"/>
+<area shape="rect" id="Node000009" href="$class_key_colors.html#a939f0345bd107f3fc6f7270bce9cf95e" title=" " alt="" coords="479,275,695,301"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="415,249,509,270,504,271,416,254"/>
+<area shape="rect" id="Node000010" href="$class_key_colors.html#a31a00ae1265b351cf4e3f6f2338ee854" title=" " alt="" coords="482,325,692,352"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="370,248,419,280,480,311,502,321,497,320,478,316,417,285,369,254"/>
+<area shape="rect" id="Node000011" href="$class_key_colors.html#a398bc5e381f9350ca62a202b5c1e1542" title=" " alt="" coords="480,376,695,403"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="361,249,409,305,443,336,480,362,494,370,489,370,478,366,439,340,405,308,360,254"/>
+<area shape="rect" id="Node000012" href="$class_key_colors.html#a096afaeb619217309cb7e122b77b352d" title=" " alt="" coords="482,427,693,453"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="357,249,375,283,401,328,437,374,481,413,490,420,485,419,477,417,433,377,397,331,370,286,355,253"/>
+<area shape="rect" id="Node000004" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="767,5,906,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="681,16,754,18,749,19,682,21"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="656,271,731,259,725,260,657,277"/>
+</map>

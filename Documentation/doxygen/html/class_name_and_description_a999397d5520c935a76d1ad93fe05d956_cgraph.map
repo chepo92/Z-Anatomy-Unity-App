@@ -1,0 +1,11 @@
+<map id="NameAndDescription.SetDescription" name="NameAndDescription.SetDescription">
+<area shape="rect" id="Node000001" title="Sets the description of the game object by fetching it from the database." alt="" coords="5,13,241,40"/>
+<area shape="rect" id="Node000002" href="$class_read_d_b.html#a46129f2273a3bfd9b55d6908eaffe227" title=" " alt="" coords="289,13,451,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,24,276,27,270,27,241,29"/>
+<area shape="rect" id="Node000003" href="$class_names_management.html#a187bea184db6fba1986089b5f2740806" title=" " alt="" coords="499,13,692,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,24,486,27,481,27,451,29"/>
+<area shape="rect" id="Node000004" href="$class_names_management.html#aefcfe541cea7196d510da01b57769586" title=" " alt="" coords="740,5,993,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="693,24,727,27,722,27,693,29"/>
+<area shape="rect" id="Node000005" href="$class_highlight_text.html#ad3eb806f90582a81e06d0399850b79d0" title=" " alt="" coords="1041,13,1197,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="993,24,1028,27,1022,27,993,29"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ActionControl.BoxSelectionClick" name="ActionControl.BoxSelectionClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,48,412,91"/>
+<area shape="rect" id="Node000002" href="$class_action_control.html#ab47a47910b78a06c6f929c3b75a736ef" title=" " alt="" coords="11,5,177,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,47,157,35,157,30,219,45"/>
+<area shape="rect" id="Node000003" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="17,56,171,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,70,172,72,171,67,218,69"/>
+<area shape="rect" id="Node000004" href="$class_action_control.html#af4b5fb1e27d73c0412c93ef8f174b582" title=" " alt="" coords="5,107,183,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,92,158,109,157,103,213,93"/>
+</map>

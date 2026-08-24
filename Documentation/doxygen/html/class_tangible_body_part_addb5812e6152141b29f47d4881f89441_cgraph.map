@@ -1,0 +1,13 @@
+<map id="TangibleBodyPart.Deselect" name="TangibleBodyPart.Deselect">
+<area shape="rect" id="Node000001" title="Deselects the object by changing its selection state and hiding its labels and notes." alt="" coords="5,60,185,87"/>
+<area shape="rect" id="Node000002" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="237,31,430,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,60,224,57,219,58,186,65"/>
+<area shape="rect" id="Node000006" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="233,81,434,124"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="185,82,220,88,214,89,185,87"/>
+<area shape="rect" id="Node000003" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="499,5,686,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,32,486,29,481,30,430,37"/>
+<area shape="rect" id="Node000005" href="$class_delete_command.html#a2c39c17d14dba6342bf148af28e6f727" title=" " alt="" coords="482,56,703,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="430,51,469,57,464,57,430,56"/>
+<area shape="rect" id="Node000004" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="751,5,890,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="687,16,739,18,733,19,687,21"/>
+</map>

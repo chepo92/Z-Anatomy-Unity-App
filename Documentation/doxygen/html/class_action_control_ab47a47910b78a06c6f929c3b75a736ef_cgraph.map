@@ -1,0 +1,17 @@
+<map id="ActionControl.DrawClick" name="ActionControl.DrawClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,156,171,183"/>
+<area shape="rect" id="Node000002" href="$class_action_control.html#a4e2657f3b2269134ac6a70527e7f0b84" title=" " alt="" coords="233,85,414,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,153,228,131,224,134,142,158"/>
+<area shape="rect" id="Node000006" href="$class_panels_management.html#a49e58eb6743ef6360064bd5c4dab1807" title=" " alt="" coords="219,181,428,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="170,178,206,185,201,186,171,184"/>
+<area shape="rect" id="Node000003" href="$class_lasso_selection.html#a7351dae0907cce6f4107405b205bf80a" title=" " alt="" coords="508,5,654,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,82,475,41,504,35,499,37,477,47,373,87"/>
+<area shape="rect" id="Node000004" href="$class_toggle_change_color.html#a4a4032ca574a278e9b643737811abecf" title=" " alt="" coords="476,56,686,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,94,463,90,458,92,415,99"/>
+<area shape="rect" id="Node000005" href="$class_toggle_change_color.html#a5151f16be3bac74ac7ac5d02b7dff1f4" title=" " alt="" coords="478,123,684,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="414,117,465,127,460,127,415,122"/>
+<area shape="rect" id="Node000007" href="$class_expand_collapse_u_i.html#a5eac2ec325241121a9d0280d54f245ba" title=" " alt="" coords="488,189,674,216"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="428,200,476,202,470,203,429,205"/>
+<area shape="rect" id="Node000008" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="492,240,670,267"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="429,221,498,237,493,236,428,226"/>
+</map>

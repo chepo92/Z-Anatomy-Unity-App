@@ -1,0 +1,14 @@
+<map id="Settings" name="Settings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,201,162,228"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="178,203,186,207,189,215,181,226,163,229,162,223,178,221,184,214,182,211,177,208"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,44,51,77,54,107,67,135,83,161,117,201,112,202,79,164,62,138,49,109,45,76,52,49"/>
+<area shape="rect" id="Node000003" href="$class_mesh_management.html" title=" " alt="" coords="64,81,192,108"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="82,40,119,80,114,82,82,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="130,122,130,202,125,200,125,125"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="207,87,218,95,210,102,193,104,191,99,208,97,213,95,207,92"/>
+<area shape="rect" id="Node000004" href="$class_custom_slider.html" title=" " alt="" coords="298,81,398,108"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="328,117,292,151,249,180,205,198,163,209,162,204,203,193,246,175,289,147,323,120"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="320,5,375,32"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="349,45,350,82,345,80,346,49"/>
+</map>

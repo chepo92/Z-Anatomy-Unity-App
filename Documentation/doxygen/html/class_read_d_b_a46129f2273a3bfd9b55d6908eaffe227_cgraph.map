@@ -1,0 +1,9 @@
+<map id="ReadDB.GetDescription" name="ReadDB.GetDescription">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,168,40"/>
+<area shape="rect" id="Node000002" href="$class_names_management.html#a187bea184db6fba1986089b5f2740806" title=" " alt="" coords="216,13,409,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,24,203,26,197,27,168,29"/>
+<area shape="rect" id="Node000003" href="$class_names_management.html#aefcfe541cea7196d510da01b57769586" title=" " alt="" coords="457,5,709,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,24,444,27,439,27,409,29"/>
+<area shape="rect" id="Node000004" href="$class_highlight_text.html#ad3eb806f90582a81e06d0399850b79d0" title=" " alt="" coords="757,13,914,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="710,24,744,27,739,27,710,29"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Pencil.SetPolygonPencilMode" name="Pencil.SetPolygonPencilMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,202,32"/>
+<area shape="rect" id="Node000002" href="$class_pop_up_management.html#ad1b3d472d4965803adf83dab71dc147d" title=" " alt="" coords="250,5,423,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,16,236,19,231,19,202,21"/>
+<area shape="rect" id="Node000003" href="$class_pop_up_message.html#af288011e9d84a05ffb2514ffbfbac392" title=" " alt="" coords="471,5,622,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,16,458,19,453,19,423,21"/>
+</map>

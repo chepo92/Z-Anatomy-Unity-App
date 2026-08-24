@@ -1,0 +1,11 @@
+<map id="SelectedObjectsManagement.NoBodyPartInfo" name="SelectedObjectsManagement.NoBodyPartInfo">
+<area shape="rect" id="Node000001" title="Clear the hierarchy bar and highlighted item in the lexicon." alt="" coords="5,23,202,65"/>
+<area shape="rect" id="Node000002" href="$class_hierarchy_bar.html#ad72351240ca9b401b5f967796fcb0cc1" title=" " alt="" coords="261,5,394,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,30,248,27,243,29,202,35"/>
+<area shape="rect" id="Node000003" href="$class_lexicon.html#a6662f6aa9307756230d7acfdbced337d" title=" " alt="" coords="250,56,405,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,52,236,58,231,59,202,58"/>
+<area shape="rect" id="Node000004" href="$class_lexicon_element.html#a9c75fb525833258e2e9285103687c319" title=" " alt="" coords="456,15,636,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,55,443,52,438,53,406,60"/>
+<area shape="rect" id="Node000005" href="$class_lexicon_element.html#a530b05be33f9939fda5be0a9518c0c80" title=" " alt="" coords="453,81,639,124"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="406,79,440,86,435,86,405,84"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="LabelGroup" name="LabelGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,180,110,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,47,69,180,63,180,59,48"/>
+<area shape="rect" id="Node000003" href="$class_camera_controller.html" title=" " alt="" coords="82,81,205,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="86,40,132,80,127,82,86,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,120,78,182,74,178,121,120"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="221,87,232,95,224,102,206,104,205,99,222,97,227,95,220,92"/>
+</map>

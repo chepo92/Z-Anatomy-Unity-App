@@ -1,0 +1,7 @@
+<map id="SelectedObjectsManagement.SelectObject" name="SelectedObjectsManagement.SelectObject">
+<area shape="rect" id="Node000001" title="Selects a GameObject." alt="" coords="5,5,202,48"/>
+<area shape="rect" id="Node000002" href="$class_tangible_body_part.html#adb5f699d5b8ba8e366f6edcd5cbd70cb" title="Sets the selected outline to the object." alt="" coords="250,13,414,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,24,236,26,231,27,202,29"/>
+<area shape="rect" id="Node000003" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="462,5,663,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,24,449,27,443,27,414,29"/>
+</map>

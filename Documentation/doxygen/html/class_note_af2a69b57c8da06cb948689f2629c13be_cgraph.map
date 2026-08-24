@@ -1,0 +1,7 @@
+<map id="Note.GizmoClick" name="Note.GizmoClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,127,57"/>
+<area shape="rect" id="Node000002" href="$class_note.html#a6509f6527fdcaf11e5606f5b89ccc682" title=" " alt="" coords="175,5,279,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,32,162,28,157,30,128,37"/>
+<area shape="rect" id="Node000003" href="$class_note.html#a727f56f3361292e5470f1c2e34f0bdf9" title=" " alt="" coords="178,56,276,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,51,166,59,160,60,127,56"/>
+</map>

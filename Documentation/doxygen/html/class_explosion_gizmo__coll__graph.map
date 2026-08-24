@@ -1,0 +1,9 @@
+<map id="ExplosionGizmo" name="ExplosionGizmo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,80,248,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,37,170,78,165,80,96,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="141,5,240,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,46,193,81,188,78,188,50"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="263,5,384,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="290,39,215,82,213,77,285,40"/>
+</map>

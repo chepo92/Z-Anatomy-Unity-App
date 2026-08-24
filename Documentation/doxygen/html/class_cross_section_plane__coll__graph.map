@@ -1,0 +1,9 @@
+<map id="CrossSectionPlane" name="CrossSectionPlane">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,139,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,122,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,47,74,180,69,180,65,48"/>
+<area shape="rect" id="Node000003" href="$class_mesh_management.html" title=" " alt="" coords="88,81,216,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="93,40,140,80,135,82,92,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,120,84,182,80,178,129,120"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="232,87,243,95,234,102,217,104,216,99,233,97,238,95,231,92"/>
+</map>

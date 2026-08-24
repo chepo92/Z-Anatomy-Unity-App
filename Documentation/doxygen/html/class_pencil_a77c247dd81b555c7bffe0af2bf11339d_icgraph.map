@@ -1,0 +1,5 @@
+<map id="Pencil.InstantiateLine" name="Pencil.InstantiateLine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,5,388,32"/>
+<area shape="rect" id="Node000002" href="$class_draw_line_command.html#ac48b9b18af64296df37c376bf2fc5713" title=" " alt="" coords="5,5,194,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,19,194,21,194,16,229,19"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CrossSections.InvertedZClick" name="CrossSections.InvertedZClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,202,69"/>
+<area shape="rect" id="Node000002" href="$class_cross_sections.html#a08ddae0abb0d9e88575c2085300edafe" title=" " alt="" coords="258,13,448,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,42,245,39,240,40,203,47"/>
+<area shape="rect" id="Node000004" href="$class_toggle_change_color.html#a5151f16be3bac74ac7ac5d02b7dff1f4" title=" " alt="" coords="250,64,456,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,65,237,71,231,72,202,70"/>
+<area shape="rect" id="Node000003" href="$class_toggle_change_color.html#a4a4032ca574a278e9b643737811abecf" title=" " alt="" coords="504,5,714,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,24,491,26,486,27,448,29"/>
+</map>

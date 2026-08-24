@@ -1,0 +1,21 @@
+<map id="Lexicon.AddElement" name="Lexicon.AddElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,143,147,170"/>
+<area shape="rect" id="Node000002" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="222,106,408,149"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,146,208,139,204,142,148,151"/>
+<area shape="rect" id="Node000003" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="195,173,435,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,163,188,169,183,171,147,168"/>
+<area shape="rect" id="Node000004" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="725,41,894,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,170,433,159,446,145,452,130,455,97,459,65,467,50,481,36,515,18,551,8,589,3,627,4,700,15,762,35,757,35,699,20,627,9,589,9,552,13,517,23,485,40,471,53,464,67,460,98,457,131,450,147,437,163,419,175"/>
+<area shape="rect" id="Node000005" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="483,74,670,117"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="400,170,434,158,458,143,482,126,492,124,497,122,484,131,461,148,436,163,402,175"/>
+<area shape="rect" id="Node000006" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="483,165,670,207"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="435,183,470,186,465,187,436,189"/>
+<area shape="rect" id="Node000007" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="718,202,901,229"/>
+<area shape="poly" id="edge11_Node000003_Node000007" title=" " alt="" coords="372,197,426,209,483,217,577,220,670,217,705,219,700,219,670,222,577,226,483,222,425,214,372,203"/>
+<area shape="rect" id="Node000008" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="510,282,643,309"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="344,197,484,261,521,277,515,276,482,266,343,202"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="670,76,718,70,713,71,672,81"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="533,72,531,64,538,55,554,49,577,47,602,50,618,58,613,59,600,55,577,53,555,55,541,59,536,65,537,75"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="533,163,531,155,538,146,554,140,577,138,602,141,618,149,613,149,600,146,577,143,555,145,541,150,536,156,537,166"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="671,195,706,202,700,202,671,201"/>
+</map>

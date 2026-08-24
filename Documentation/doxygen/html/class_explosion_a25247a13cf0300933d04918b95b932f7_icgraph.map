@@ -1,0 +1,5 @@
+<map id="Explosion.Explode" name="Explosion.Explode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,5,348,32"/>
+<area shape="rect" id="Node000002" href="$class_explosion_gizmo.html#ae4d27229c602d31c883a95d565f116a8" title=" " alt="" coords="5,5,171,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,19,171,21,171,16,206,19"/>
+</map>

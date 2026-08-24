@@ -1,0 +1,7 @@
+<map id="CrossPlanesGizmo.EnabelDisableGizmoClick" name="CrossPlanesGizmo.EnabelDisableGizmoClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,228,81"/>
+<area shape="rect" id="Node000002" href="$class_cross_planes_gizmo.html#af8c99c35cacc47fd6a7f2e318dc58236" title=" " alt="" coords="293,5,475,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,43,279,39,274,41,229,49"/>
+<area shape="rect" id="Node000003" href="$class_cross_planes_gizmo.html#aeaa71cdcae09785a3ed0c6db3a85638d" title=" " alt="" coords="276,72,492,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,71,263,78,258,78,228,77"/>
+</map>

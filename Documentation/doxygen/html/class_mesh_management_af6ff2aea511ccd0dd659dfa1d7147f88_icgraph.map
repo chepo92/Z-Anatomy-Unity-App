@@ -1,0 +1,7 @@
+<map id="MeshManagement.PartialIsolationClick" name="MeshManagement.PartialIsolationClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="244,27,462,69"/>
+<area shape="rect" id="Node000002" href="$class_action_control.html#a5dc879ecd8c2d4f69a4d85315a9bb6e8" title=" " alt="" coords="5,5,196,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,34,196,32,196,27,231,33"/>
+<area shape="rect" id="Node000003" href="$class_contextual_menu.html#acd4c1000ed1e4a27c603c872ef44b445" title=" " alt="" coords="17,56,184,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,63,185,70,184,65,230,62"/>
+</map>

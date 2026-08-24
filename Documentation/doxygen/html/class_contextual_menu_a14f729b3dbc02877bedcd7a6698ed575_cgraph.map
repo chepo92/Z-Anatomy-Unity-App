@@ -1,0 +1,19 @@
+<map id="ContextualMenu.HideLabelsClick" name="ContextualMenu.HideLabelsClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,191,194"/>
+<area shape="rect" id="Node000002" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="239,160,479,186"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,171,225,172,220,174,192,176"/>
+<area shape="rect" id="Node000003" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="769,28,938,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,157,392,127,428,89,473,51,526,23,560,12,595,6,666,4,733,10,793,23,787,24,732,15,666,9,596,11,561,18,528,28,476,56,432,93,396,131,372,162"/>
+<area shape="rect" id="Node000004" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="527,61,714,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="399,157,540,110,545,108,401,162"/>
+<area shape="rect" id="Node000005" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="527,152,714,194"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="479,171,514,173,509,174,480,176"/>
+<area shape="rect" id="Node000006" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="762,189,945,216"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="416,184,470,196,527,204,621,207,714,204,749,206,744,206,714,209,621,213,527,209,469,201,416,190"/>
+<area shape="rect" id="Node000007" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="554,269,687,296"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="388,184,528,248,565,264,559,263,526,253,387,189"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="714,63,762,57,757,58,716,68"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="577,59,575,51,582,42,598,36,621,34,646,37,662,46,657,46,644,42,621,40,599,42,585,46,580,52,581,62"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="577,150,575,142,582,133,598,127,621,125,646,128,662,136,657,136,644,133,621,130,599,132,585,137,580,143,581,153"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="715,182,750,189,744,189,715,188"/>
+</map>

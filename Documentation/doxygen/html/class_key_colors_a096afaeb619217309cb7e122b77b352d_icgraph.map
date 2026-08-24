@@ -1,0 +1,9 @@
+<map id="KeyColors.SetVisceraKeyColors" name="KeyColors.SetVisceraKeyColors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="479,47,690,73"/>
+<area shape="rect" id="Node000002" href="$class_key_colors.html#a6a8ef1883423382e9aa146b1300d0e70" title=" " alt="" coords="268,47,431,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,60,432,63,431,57,466,60"/>
+<area shape="rect" id="Node000003" href="$class_contextual_menu.html#a0c6807e8337e2dd575e6c5bc89819c9a" title=" " alt="" coords="8,5,217,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,47,217,44,217,39,255,46"/>
+<area shape="rect" id="Node000004" href="$class_contextual_menu.html#a1a9ce3d026ef312fce3f24fb390d6a42" title=" " alt="" coords="5,72,220,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="250,74,221,81,220,76,255,73"/>
+</map>

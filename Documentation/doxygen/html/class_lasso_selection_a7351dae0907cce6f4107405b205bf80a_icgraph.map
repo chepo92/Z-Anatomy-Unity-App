@@ -1,0 +1,14 @@
+<map id="LassoSelection.Clear" name="LassoSelection.Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="471,85,616,112"/>
+<area shape="rect" id="Node000002" href="$class_action_control.html#a4e2657f3b2269134ac6a70527e7f0b84" title=" " alt="" coords="236,44,418,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,85,418,82,418,77,458,85"/>
+<area shape="rect" id="Node000006" href="$class_action_control.html#ab4fd8d9427750711b6f7d86b0970dff9" title=" " alt="" coords="231,111,423,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="458,112,424,120,423,115,453,113"/>
+<area shape="rect" id="Node000003" href="$class_action_control.html#ab47a47910b78a06c6f929c3b75a736ef" title=" " alt="" coords="11,5,177,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,45,164,35,164,30,224,43"/>
+<area shape="rect" id="Node000004" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="17,56,171,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="218,68,172,71,171,65,223,66"/>
+<area shape="rect" id="Node000005" href="$class_action_control.html#af4b5fb1e27d73c0412c93ef8f174b582" title=" " alt="" coords="5,111,183,137"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="223,92,151,113,149,107,228,90"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="213,128,183,130,183,124,218,128"/>
+</map>

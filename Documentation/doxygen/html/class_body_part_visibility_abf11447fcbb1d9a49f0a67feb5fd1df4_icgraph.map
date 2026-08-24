@@ -1,0 +1,5 @@
+<map id="BodyPartVisibility.HideInsertions" name="BodyPartVisibility.HideInsertions">
+<area shape="rect" id="Node000001" title="Hides the insertions for the current object." alt="" coords="258,13,469,40"/>
+<area shape="rect" id="Node000002" href="$class_contextual_menu.html#a57f0e3ac811f3d18cc9988c01b93e252" title=" " alt="" coords="5,5,210,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,27,210,29,210,24,245,27"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BodyPartVisibility.ShowLabels" name="BodyPartVisibility.ShowLabels">
+<area shape="rect" id="Node000001" title="Shows labels associated with this object (if it has labels)." alt="" coords="5,35,204,61"/>
+<area shape="rect" id="Node000002" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="264,5,451,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,34,251,31,245,32,204,39"/>
+<area shape="rect" id="Node000004" href="$class_assets_1_1_scripts_1_1_commands_1_1_show_command.html#afae739e7131c5af73e291322778d157e" title=" " alt="" coords="252,56,463,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,57,239,63,233,63,204,62"/>
+<area shape="rect" id="Node000003" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="511,5,649,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,16,499,18,493,19,452,21"/>
+</map>

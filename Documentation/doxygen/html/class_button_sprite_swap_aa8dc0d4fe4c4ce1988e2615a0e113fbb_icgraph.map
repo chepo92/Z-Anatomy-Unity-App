@@ -1,0 +1,7 @@
+<map id="ButtonSpriteSwap.SwapImage" name="ButtonSpriteSwap.SwapImage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="301,35,500,61"/>
+<area shape="rect" id="Node000002" href="$class_lexicon_item_checkbox.html#a7f0749fae1456e8cfd52fd78b346c16a" title=" " alt="" coords="5,5,253,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,36,253,35,253,29,288,35"/>
+<area shape="rect" id="Node000003" href="$class_lexicon_item_checkbox.html#a3b6a88846ad9533ca2e7d7f3afbc6876" title=" " alt="" coords="22,56,236,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,61,237,68,236,63,288,60"/>
+</map>
